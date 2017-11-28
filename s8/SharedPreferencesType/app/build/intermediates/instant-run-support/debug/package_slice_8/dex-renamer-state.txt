@@ -1,0 +1,4 @@
+#Sun Oct 22 16:05:09 CST 2017
+base.0=C\:\\MyApp\\book\\s8\\SharedPreferencesType\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\MyApp\\book\\s8\\SharedPreferencesType\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

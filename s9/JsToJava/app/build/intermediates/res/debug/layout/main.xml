@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>      
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"	
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent" 
+	android:orientation="vertical"> 
+	<WebView
+		android:layout_height="fill_parent" 
+		android:layout_width="fill_parent" 
+		android:id="@+id/webview" />      
+</LinearLayout> 
+<!-- From: file:/D:/AndroidStudio/android_workspace/JsToJava/app/src/main/res/layout/main.xml -->

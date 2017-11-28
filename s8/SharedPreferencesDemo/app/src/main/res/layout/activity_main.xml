@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="User Name"
+        android:gravity="left"
+        />
+    <EditText
+        android:id="@+id/password"
+        android:layout_below="@id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:gravity="left"
+        />
+    <Button
+        android:id="@+id/saveData"
+        android:layout_below="@id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="保存数据"
+        android:gravity="left"
+        />
+
+    <Button
+        android:id="@+id/getSaveData"
+        android:layout_below="@id/saveData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="读取数据"
+        android:gravity="left"/>
+
+    <Button
+        android:id="@+id/clearData"
+        android:layout_below="@id/getSaveData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="清空数据"
+        android:gravity="left"/>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_bg.xml",
+        "source": "C:\\MyApp\\book\\s6\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_thumb.xml",
+        "source": "C:\\MyApp\\book\\s6\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb.xml"
+    }
+]

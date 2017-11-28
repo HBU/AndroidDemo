@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudio/android_workspace/8/SharedPreferencesType1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Save</string>
+    <string name="hello">Hello World, SaveActivity!</string>
+</resources>

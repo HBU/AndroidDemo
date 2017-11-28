@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudio/android_workspace/JsToJava/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">com.androidbook.JsToJava</string>
+    <string name="hello">下一个Activity</string>
+</resources>

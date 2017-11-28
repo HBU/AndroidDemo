@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_64fe9d6c04963e06f87b59a3b0683e799593552d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_7e50e317ac54b6e76b57d3e40187029be7a75750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_d8b856f72a8c3e88e69cd4927506186ad000a9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_0b257081348f56afcee14f2a6029dc38ec188a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_466d5e20e7e9dc6959d681de164800252f0b4139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\MyApp\book\s10\AsyncTaskExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_f2951faa4170f5d83faa2e815e4ab4c7eacb9d08.jar" />
+    </item>
+
+</items>

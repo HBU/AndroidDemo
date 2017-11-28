@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Oct 20 14:15:47 CST 2017
+2.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e36147018c82c2ead7443a47bb0f3f57603a3c78
+5.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db2f1f35a402397d2f79f97cb6fcec007a17c3b
+2.set=DEX
+4.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e36147018c82c2ead7443a47bb0f3f57603a3c78\\classes.dex
+0.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db2f1f35a402397d2f79f97cb6fcec007a17c3b\\classes.dex
+3.set=DEX
+1.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

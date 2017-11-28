@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\MyApp\book\s8\GetInfoFromContact\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\MyApp\book\s8\GetInfoFromContact\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bf08af127cf76f3275a586cfd65d792928fa89c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyApp\book\s8\GetInfoFromContact\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="207d663e2ee1ac0f3d784557e784d64a0e19c6a3">
+        <dex dex="C:\MyApp\book\s8\GetInfoFromContact\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a761dd819feb25a4138db61ff81aaa3c645f8a80\classes.dex" />
+    </item>
+
+</items>

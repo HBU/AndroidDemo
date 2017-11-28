@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudio\android_workspace\SAX\app\src\main\assets"><file name="information.xml" path="D:\AndroidStudio\android_workspace\SAX\app\src\main\assets\information.xml"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidStudio\android_workspace\SAX\app\src\debug\assets"/></dataSet></merger>

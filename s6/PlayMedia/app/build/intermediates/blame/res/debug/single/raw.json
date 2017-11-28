@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound.mp3",
+        "source": "C:\\MyApp\\book\\s6\\PlayMedia\\app\\src\\main\\res\\raw\\sound.mp3"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\raw\\despacio.mp3",
+        "source": "C:\\MyApp\\book\\s6\\PlayMedia\\app\\src\\main\\res\\raw\\despacio.mp3"
+    }
+]

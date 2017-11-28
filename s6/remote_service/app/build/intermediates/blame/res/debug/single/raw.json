@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw\\today.mp3",
+        "source": "C:\\MyApp\\book\\s6\\remote_service\\app\\src\\main\\res\\raw\\today.mp3"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chengdu.mp3",
+        "source": "C:\\MyApp\\book\\s6\\remote_service\\app\\src\\main\\res\\raw\\chengdu.mp3"
+    }
+]

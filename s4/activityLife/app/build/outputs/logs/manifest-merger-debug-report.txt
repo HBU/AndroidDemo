@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:3:7-45
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:8:5-20:19
+	android:label
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:8:18-47
+activity#com.androidbook.activitylife.Activity1
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:11:21-53
+	android:launchMode
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:10:21-50
+	android:name
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:9:21-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:14:27-74
+activity#com.androidbook.activitylife.Activity2
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:17:2-39
+	android:name
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:17:12-37
+activity#com.androidbook.activitylife.Activity3
+ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:18:2-19:57
+	android:theme
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:19:12-55
+	android:name
+		ADDED from C:\MyApp\book\s4\activityLife\app\src\main\AndroidManifest.xml:18:12-37

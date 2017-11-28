@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=gb2312">
+    <script type="text/javascript">
+        function javaCallJs(){
+             document.getElementById("content").innerHTML = "<br\>JAVA调用了JS的无参函数";
+        }
+
+        function javaCallJsWith(arg){
+             document.getElementById("content").innerHTML = ("<br\>来自java的参数：<br\>"+arg);
+        }
+    </script>
+</head>
+<body>
+<font size="9" color="red">HTML内容显示</font> <br/>
+    <h1>
+        <div id="content">我是HTML页面</div>
+    </h1>
+    <br/>
+    <input type="button" value="点我调用java代码" onclick="window.android.startFunction()"/>
+    <br/>
+    <input type="button" value="点我调用java代码并传递参数" onclick="window.android.startFunction('我是JS中的参数')"/>
+    <br/>
+    <a onclick="window.android.callAndroid()"> <img id="Android" src="android_normal.png"/><br>
+        点我打开新的Activity!
+    </a>
+</body>
+</html>
