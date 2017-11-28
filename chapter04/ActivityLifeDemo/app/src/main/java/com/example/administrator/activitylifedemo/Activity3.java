@@ -1,4 +1,4 @@
-package com.example.administrator.activitylifedeom;
+package com.example.administrator.activitylifedemo;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.administrator.activitylifedeom">
+    package="com.example.administrator.activitylifedemo">
 
     <application
         android:allowBackup="true"
@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity1">
+        <activity android:name="com.example.administrator.activitylifedemo.Activity1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity2"></activity>
+        <activity android:name="com.example.administrator.activitylifedemo.Activity2"></activity>
         <activity
-            android:name=".Activity3"
+            android:name="com.example.administrator.activitylifedemo.Activity3"
             android:theme="@android:style/Theme.Dialog"></activity>
     </application>
 

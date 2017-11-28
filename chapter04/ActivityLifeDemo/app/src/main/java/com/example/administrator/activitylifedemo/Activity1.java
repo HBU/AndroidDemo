@@ -1,39 +1,45 @@
-package com.example.administrator.activitylifedeom;
+package com.example.administrator.activitylifedemo;
 
-/**
- * Created by Administrator on 2017/11/27.
- */
-
-
+import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-
-public class Activity2 extends Activity {
+public class Activity1 extends Activity {
 
     /** Called when the activity is first created. */
-    private static final String TAG = "Activity2";
+    private static final String TAG = "Activity1";
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main2);
+        setContentView(R.layout.main1);
         Log.e(TAG,"onCreate");
-        Button button = (Button) findViewById( R.id.button);
-        button.setText("进入Activity1");
-        button.setOnClickListener( new OnClickListener() {
+        Button button = (Button)findViewById(R.id.button);
+        button.setText("进入Activity2");
+        Button otherButton = (Button)findViewById(R.id.otherbutton);
+        otherButton.setText("进入Activity3,以对话框形式");
+        button.setOnClickListener(new OnClickListener() {
 
             @Override
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                Intent intent = new Intent ( Activity2.this,Activity1.class);
+                Intent intent = new Intent( Activity1.this,Activity2.class);
                 startActivity(intent);
             }
         });
+
+        otherButton.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                Intent intent = new Intent( Activity1.this,Activity3.class);
+                startActivity(intent);
+            }
+        });
+
     }
 
     @Override
@@ -90,3 +96,12 @@ public class Activity2 extends Activity {
         Log.e(TAG,"onDestroy");
     }
 }
+
+
+
+
+
+
+
+
+
