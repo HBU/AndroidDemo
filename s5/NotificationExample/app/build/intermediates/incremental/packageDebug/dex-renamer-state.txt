@@ -1,0 +1,7 @@
+#Mon Sep 18 11:45:32 CST 2017
+base.0=C\:\\MyApp\\book\\s5\\NotificationExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d8c7b2c2fc3d2297a1591561d72f839ca9c4f8b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\MyApp\\book\\s5\\NotificationExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22981e9aa778ea6814627f240cf9f24c8578514e\\classes.dex
+base.1=C\:\\MyApp\\book\\s5\\NotificationExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22981e9aa778ea6814627f240cf9f24c8578514e
+file.0=C\:\\MyApp\\book\\s5\\NotificationExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d8c7b2c2fc3d2297a1591561d72f839ca9c4f8b\\classes.dex

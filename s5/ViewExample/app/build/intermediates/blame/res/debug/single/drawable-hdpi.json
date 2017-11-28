@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\MyApp\\book\\s5\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_contact_list_picture.png",
+        "source": "C:\\MyApp\\book\\s5\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_list_picture.png"
+    }
+]

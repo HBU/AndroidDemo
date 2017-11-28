@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:3:7-42
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:8:5-20:19
+	android:label
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:8:18-47
+activity#com.androidbook.appwidget.MainActivity
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:9:6-48
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:9:16-46
+receiver#com.androidbook.appwidget.AppWidgetExample
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:10:10-18:21
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:10:20-52
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.androidbook.appwidget.next+com.androidbook.appwidget.preview
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:11:14-15:30
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:12:18-84
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:12:26-82
+action#com.androidbook.appwidget.next
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:13:18-74
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:13:27-72
+action#com.androidbook.appwidget.preview
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:14:19-78
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:14:28-76
+meta-data#android.appwidget.provider
+ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:16:14-17:56
+	android:resource
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:17:18-53
+	android:name
+		ADDED from C:\MyApp\book\s5\AppWidgetExample\app\src\main\AndroidManifest.xml:16:25-66

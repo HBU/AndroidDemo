@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView android:id="@+id/view1"
+        android:background="#00f"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="View 类型的Tab标签页"/>
+</FrameLayout>

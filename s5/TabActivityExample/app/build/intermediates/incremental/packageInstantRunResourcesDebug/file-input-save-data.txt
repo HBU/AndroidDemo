@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Sep 04 21:26:16 CST 2017
+1.base=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.set=ANDROID_RESOURCE
+2.base=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tabs1.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\resources-debug.ap_

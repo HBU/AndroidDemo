@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<Button
+		android:id="@+id/array_button"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+	    android:text="一个按钮"
+	/>
+	<ImageView android:id="@+id/array_image"
+		android:layout_toRightOf="@+id/array_button"
+		android:layout_width="wrap_content" android:layout_height="fill_parent"
+		android:layout_alignParentTop="true" android:layout_alignParentBottom="true"
+		android:adjustViewBounds="true"
+		android:padding="2dip" />
+	<TextView android:id="@+id/array_title"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_toRightOf="@+id/array_image"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:singleLine="true"
+		android:ellipsize="marquee" 
+		android:textSize="15dip"  />
+	<TextView android:id="@+id/array_text"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_toRightOf="@+id/array_image"
+		android:layout_below="@+id/array_title"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" 
+		android:singleLine="true"
+		android:ellipsize="marquee" 
+		android:textSize="20dip" />
+
+</RelativeLayout>
+
+ 

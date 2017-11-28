@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\MyApp\\book\\s5\\TabActivityExample\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs1.xml",
+        "source": "C:\\MyApp\\book\\s5\\TabActivityExample\\app\\src\\main\\res\\layout\\tabs1.xml"
+    }
+]

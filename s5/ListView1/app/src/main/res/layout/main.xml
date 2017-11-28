@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/screen"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:orientation="vertical">
+        <ImageView
+         android:src="@drawable/jay"
+         android:layout_width="fill_parent" 
+         android:layout_height="fill_parent"
+        />
+       <TextView android:id="@+id/textView0"
+	          android:layout_width="fill_parent"
+			  android:layout_height="wrap_content" 
+			  android:textColor="#000000"
+			  android:textSize="18dip"
+			  android:background="#00FF00"
+		      android:text="雨松MOMO 带你走进Android 软件开发的世界" 
+		      android:gravity="center_vertical|center_horizontal"
+		/>
+		 <TextView android:id="@+id/textView1"
+	          android:layout_width="fill_parent"
+			  android:layout_height="wrap_content" 
+			  android:textColor="#FFFFFF"
+			  android:textSize="18dip"
+			  android:background="#0000FF"
+		      android:text="Android软件开发之ListView(六)" 
+		      android:gravity="center_vertical|center_horizontal"
+		      />
+        <Button android:id="@+id/button0"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="简单的ListView列表"/>
+        <Button android:id="@+id/button1"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="带标题的ListView列表"/>
+        <Button android:id="@+id/button2"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="带图片的ListView列表"/>
+        <Button android:id="@+id/button3"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="自定义BaseAdapter颜色"/>
+        <Button android:id="@+id/button4"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="自定义ArrayAdapter颜色"/>
+    </LinearLayout>
+</ScrollView>

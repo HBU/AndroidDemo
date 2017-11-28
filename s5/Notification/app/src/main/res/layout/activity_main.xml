@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.sleepycoder.notification.MainActivity">
+
+    <Button android:id="@+id/btn1"
+        android:onClick="onClick"
+        android:text="普通通知"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn2"
+        android:onClick="onClick"
+        android:text="带下载的通知"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn3"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="BigTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn4"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="InboxStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn5"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="BigPictureStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn6"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="HangUp 横幅通知"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn7"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="MediaStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn8"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="自定义View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

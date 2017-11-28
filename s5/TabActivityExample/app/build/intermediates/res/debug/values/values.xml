@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudio/android_workspace/TabActivityExample/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">TabActivityExample</string>
+    <string name="hello">Hello World, TabActivityExampleActivity!</string>
+</resources>

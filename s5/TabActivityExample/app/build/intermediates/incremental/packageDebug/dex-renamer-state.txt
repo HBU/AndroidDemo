@@ -1,0 +1,7 @@
+#Mon Sep 04 21:26:21 CST 2017
+base.0=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fc50a7b593a946cc3b26c31e678b3beeadbe6e27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb25fbecfc81ada8ae3e034375e91df2ec7e33fc\\classes.dex
+base.1=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb25fbecfc81ada8ae3e034375e91df2ec7e33fc
+file.0=C\:\\MyApp\\book\\s5\\TabActivityExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fc50a7b593a946cc3b26c31e678b3beeadbe6e27\\classes.dex
