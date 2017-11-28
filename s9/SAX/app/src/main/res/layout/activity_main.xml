@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/send_request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Request to server" />
+    <Button
+        android:id="@+id/parse_request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parse Requested XML File (XML to java)" />
+    <Button
+        android:id="@+id/parse_local_XML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="parse_local_XML(XML to java)" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/response_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </ScrollView>
+
+</LinearLayout>

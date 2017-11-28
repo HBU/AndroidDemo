@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <Button
+        android:id="@+id/build_json"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Build JSON (java to Json)" />
+    <Button
+        android:id="@+id/parse_json"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="parse JSON (json to java)" />
+    <Button
+        android:id="@+id/send_request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Request to server" />
+    <Button
+        android:id="@+id/parse_request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parse Requested Json" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/response_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </ScrollView>
+
+</LinearLayout>

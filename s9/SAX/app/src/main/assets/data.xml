@@ -1,0 +1,22 @@
+<apps>
+    <app>
+        <id>001</id>
+        <name>Android移动应用设计与开发</name>
+        <version>2.0</version>
+    </app>
+
+    <app>
+        <id>002</id>
+        <name>第一行代码</name>
+        <version>2.0</version>
+    </app>
+
+    <app>
+        <id>003</id>
+        <name>Android权威编程指南</name>
+        <version>2.0</version>
+    </app>
+
+</apps>
+
+
