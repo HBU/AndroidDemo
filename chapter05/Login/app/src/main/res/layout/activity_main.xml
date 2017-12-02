@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:orientation="vertical">
 
     <TextView
@@ -9,24 +9,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
-        android:text="123456"
-        android:textColor="@color/colorAccent"
-        android:textSize="30sp" />
+        android:text="网络空间安全与计算机学院"
+        android:textColor="@color/colorPrimaryDark"
+         />
 
     <EditText
         android:id="@+id/editText1"
-        android:layout_width="fill_parent"
-        android:layout_height="40dip"
-        android:hint="手机号"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="账号"
         android:singleLine="true" />
 
     <EditText
         android:id="@+id/editText2"
-        android:layout_width="fill_parent"
-        android:layout_height="40dip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:hint="密码"
-        android:password="true"
-
+        android:inputType="textPassword"
         />
 
     <TextView
@@ -36,7 +35,8 @@
         android:gravity="center_vertical"
         android:text="注册"
         android:textColor="#7089c0"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        android:onClick="onRegClick"/>
 
     <Button
         android:id="@+id/button1"
