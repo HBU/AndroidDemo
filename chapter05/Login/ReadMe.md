@@ -1,3 +1,3 @@
--登录窗口UI
--涉及两个文件：MainActivity.java 和 activity_main.xml
--把这两个文件的代码研究明白，放到自己工程里即可运行。
+# 登录窗口UI
+## 涉及两个文件：MainActivity.java 和 activity_main.xml
+## 把这两个文件的代码研究明白，放到自己工程里即可运行。
