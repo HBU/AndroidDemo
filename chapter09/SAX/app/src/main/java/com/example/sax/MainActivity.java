@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 try {
                     //获取到HttpConnection的实例，new出一个URL对象，并传入目标的网址，
                     // 然后调用一下openConnection（）方法
-                    URL url = new URL("http://10.0.2.2/data.xml");
+                    URL url = new URL("https://hbu.github.io/data.xml");
                     connection = (HttpURLConnection) url.openConnection();
                     //得到了HttpConnection的实例后，设置请求所用的方法
                     // （GET：从服务器获取数据，POST：提交数据给服务器）
