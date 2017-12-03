@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Json.iml" filepath="$PROJECT_DIR$/Json.iml" />
+      <module fileurl="file://E:\GitHub\AndroidDemo\chapter09\Json\Json.iml" filepath="E:\GitHub\AndroidDemo\chapter09\Json\Json.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\GitHub\AndroidDemo\chapter09\Json\app\app.iml" filepath="E:\GitHub\AndroidDemo\chapter09\Json\app\app.iml" />
     </modules>
   </component>
 </project>
