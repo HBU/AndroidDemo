@@ -1,3 +1,6 @@
 # 登录窗口UI
 ## 涉及两个文件：MainActivity.java 和 activity_main.xml
-## 把这两个文件的代码研究明白，放到自己工程里即可运行。
+## 使用客户端访问服务器PHP页面，返回json格式数据，解析使用。
+### 服务器页面地址：https://e0d980a0-9406-4d96-b8af-8a3375049db0.coding.io/conn.php
+### 实际应用应该在服务器端验证，返回登录是否成功即可。
+### Demo仅用于测试Android客户端访问服务器PHP页面。
