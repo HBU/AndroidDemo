@@ -1,0 +1,12 @@
+# 第9章　Android网络通信编程　
+
+-　HTTP通信　
+-　Socket通信　　
+
+-　JSON格式解析　
+-　SAX方式解析　
+
+-　获取网络状态
+
+-　WebView　
+-　在WebView中使用JavaScript
