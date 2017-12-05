@@ -35,17 +35,14 @@ public class MainActivity extends AppCompatActivity {
     private StringBuilder response;
     private void sendRequest() {
         // 开启线程来发起网络请求（下章再讲这部分内容）
-        Log.d("wyg","111");
         new Thread(new Runnable() {
             @Override
             public void run() {
                 HttpURLConnection connection = null;
                 BufferedReader reader = null;
-                Log.d("wyg","222");
                 try {
                     //获取到HttpConnection的实例，new出一个URL对象，并传入目标的网址，
                     // 然后调用一下openConnection（）方法
-                    Log.d("wyg","333");
                     URL url = new URL("https://e0d980a0-9406-4d96-b8af-8a3375049db0.coding.io/conn.php");
                     connection = (HttpURLConnection) url.openConnection();
                     //得到了HttpConnection的实例后，设置请求所用的方法
@@ -60,15 +57,12 @@ public class MainActivity extends AppCompatActivity {
                     reader = new BufferedReader(new InputStreamReader(in));
                     response = new StringBuilder();
                     String line;
-                    Log.d("wyg","444");
                     while ((line = reader.readLine()) != null) {
                         response.append(line);
                     }
                     Log.d("wyg",response.toString());
                     parseRequest();
-                    Log.d("wyg","555");
-                    //Thread.sleep(5000);
-                    //showResponse(response.toString());//在模拟器显示返回值
+
                 } catch (Exception e) {
                     e.printStackTrace();
                 } finally {
@@ -96,11 +90,12 @@ public class MainActivity extends AppCompatActivity {
                 JSONObject jsonObject = jsonArray.getJSONObject(i);
                 String id =         jsonObject.getString("id");
                 String psw =       jsonObject.getString("psw");
-
                 result = "\n【id】" + id +"  【name】" + psw+"\n" ;
                 Log.d("wyg",result);
                 if(id.equals("1") && psw.equals("1"))
                     Log.d("wyg","Login success");
+                else
+                    Log.d("wyg","Error! Check user name and password.");
                 //showResponse(result);
             }
         } catch (Exception e) {
