@@ -4,3 +4,4 @@ https://github.com/HBU/AndroidDemo/blob/master/CalculatorDemo/app/src/main/java/
 - 编写代码 研究MainActivity.java文件
 https://github.com/HBU/AndroidDemo/blob/master/CalculatorDemo/app/src/main/res/layout/activity_main.xml
 - 掌握以上内容，简易计算器APP即可制作完成。
+![效果图](https://github.com/HBU/AndroidDemo/blob/master/CalculatorDemo/calculator.png)
