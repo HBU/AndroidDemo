@@ -1,3 +1,0 @@
-http://www.cnblogs.com/hbuwyg/p/6922487.html
-http://www.cnblogs.com/hbuwyg/p/7744912.html
-根据教程安装配置环境，特别注意Gradle，要单独下载拷贝。
