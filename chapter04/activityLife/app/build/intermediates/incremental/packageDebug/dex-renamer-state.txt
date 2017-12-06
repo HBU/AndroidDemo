@@ -1,7 +1,0 @@
-#Mon Oct 09 12:43:24 CST 2017
-base.0=C\:\\MyApp\\book\\s4\\activityLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9aa91a04ba9a853f692e922bc7bc8ef4f50ee9f9
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\MyApp\\book\\s4\\activityLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5f74f93fe4d971ee2eb0f874036b9e90f6f05cc\\classes.dex
-base.1=C\:\\MyApp\\book\\s4\\activityLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5f74f93fe4d971ee2eb0f874036b9e90f6f05cc
-file.0=C\:\\MyApp\\book\\s4\\activityLife\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9aa91a04ba9a853f692e922bc7bc8ef4f50ee9f9\\classes.dex
