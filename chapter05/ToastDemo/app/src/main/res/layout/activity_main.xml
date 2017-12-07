@@ -1,18 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.toastdemo.MainActivity">
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast Long (3.5秒)"
+        android:onClick="btnToast1"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast Short（2秒）"
+        android:onClick="btnToast2"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast 自定义图标"
+        android:onClick="btnToast3"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast 自定义XML载入"
+        android:onClick="btnToast4"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast 自定义显示时长"
+        android:onClick="btnToast5"/>
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-</android.support.constraint.ConstraintLayout>
+        android:textColor="@color/colorPrimary"
+        android:lineSpacingExtra="10sp"
+        android:text="
+        Toast\n
+        Android系统提供的一种提示方式,\n
+        在程序中可以使用它将一些短小的信息通知给用户,\n
+        这些信息会在一段时间后自动消失,\n
+        不会占用任何的屏幕空间."
+        android:textAlignment="center" />
+</LinearLayout>
