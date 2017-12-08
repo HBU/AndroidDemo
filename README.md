@@ -18,8 +18,7 @@
 ##### 4.3　[Intent解析 & Activity的跳转](https://github.com/HBU/AndroidDemo/tree/master/chapter04/Intent)
 ----------------------------------
 ### 第5章　用户界面设计　
-##### 5.1　常用组件
-Button、TextView、EditText、ImageView　
+##### 5.1　[常用组件:Button、TextView、EditText、ImageView](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ViewExample)　
 ##### 5.2　Layout 布局
 LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### 实验2：[登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
