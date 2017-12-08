@@ -17,13 +17,9 @@
 ----------------------------------
 ### 第5章　用户界面设计　
 ##### 5.1　常用组件
-- Button、TextView、EditText、ImageView　
+Button、TextView、EditText、ImageView　
 ##### 5.2　Layout 布局
-1. LinearLayout　
-2. RelativeLayout　
-3. FrameLayout　
-4. TableLayout　
-5. AbsoluteLayout
+LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### [实验2：登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
 ##### [实验3：简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
 ##### 5.3　对话框　
