@@ -11,14 +11,9 @@
 - [Android体系结构、运行原理](https://github.com/HBU/AndroidDemo/tree/master/chapter03)
 ----------------------------------
 ### 第4章　Activity、Fragment以及Intent通信机制
-##### 4.1　Activity生命周期
-- Activity生命周期的事件回调函数
-##### 4.2　Fragment
-- Fragment的生命周期　
-- Fragment的简单使用　
-##### 4.3　Intent　
-- Intent解析　
-- Activity的跳转
+##### 4.1　[Activity生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter04/ActivityLifeDemo)
+##### 4.2　Fragment生命周期&简单使用
+##### 4.3　[Intent解析 & Activity的跳转](https://github.com/HBU/AndroidDemo/tree/master/chapter04/Intent)
 ----------------------------------
 ### 第5章　用户界面设计　
 ##### 5.1　View　
@@ -45,9 +40,7 @@
 - 5.4.1　上下文菜单　
 - 5.4.2　选项菜单　
 - 5.4.3　下拉菜单　
-##### 5.5　Toast　
-- 5.5.1　常规Toast　
-- 5.5.2　自定义Toast　
+##### 5.5　[Toast](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ToastDemo)　　
 ##### 5.6　Notification　
 - 5.6.1　常规Notification　
 - 5.6.2　自定义Notification　
