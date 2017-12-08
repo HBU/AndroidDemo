@@ -4,30 +4,6 @@
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contact_list_picture.png.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_list_picture.png"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat.jpg.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\cat.jpg"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_test.xml.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\layout\\main_test.xml"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dog.jpg.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\dog.jpg"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
-    },
-    {
         "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dog.jpg.flat",
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-hdpi\\dog.jpg"
     },
@@ -36,16 +12,8 @@
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-hdpi\\cat.jpg"
     },
     {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\layout\\main.xml"
-    },
-    {
         "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat_normal.jpg.flat",
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-hdpi\\cat_normal.jpg"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_test.xml.flat",
@@ -60,15 +28,7 @@
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_list_picture.png"
     },
     {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat_normal.jpg.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\cat_normal.jpg"
-    },
-    {
         "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
         "source": "C:\\GitHub\\AndroidDemo\\chapter05\\LayOut\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
-        "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]

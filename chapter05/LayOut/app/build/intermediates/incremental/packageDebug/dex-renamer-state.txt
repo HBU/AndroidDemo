@@ -1,7 +1,0 @@
-#Mon Sep 11 17:49:21 CST 2017
-base.0=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85c1ca15ef5e0f5288a1890c1f83b85cfba18ed
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc875f5f29b47c5f2e04a117c206966908dbd955\\classes.dex
-base.1=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc875f5f29b47c5f2e04a117c206966908dbd955
-file.0=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85c1ca15ef5e0f5288a1890c1f83b85cfba18ed\\classes.dex

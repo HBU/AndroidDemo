@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:testOnly="true" >
         <activity
-            android:name="com.androidbook.viewexample.ViewExampleActivity"
+            android:name="com.androidbook.viewexample.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
