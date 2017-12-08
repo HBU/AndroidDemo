@@ -16,17 +16,16 @@
 ##### 4.3　[Intent解析 & Activity的跳转](https://github.com/HBU/AndroidDemo/tree/master/chapter04/Intent)
 ----------------------------------
 ### 第5章　用户界面设计　
-##### 5.1　View　
-- TextView和EditText　
-- Button　
-- ImageView　
-##### 5.2　Layout　
-- 5.2.1　LinearLayout　
-- 5.2.2　RelativeLayout　
-- 5.2.3　FrameLayout　
-- 5.2.4　TableLayout　
-- 5.2.5　AbsoluteLayout　
-##### [实验2：简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
+##### 5.1　常用组件
+- Button、TextView、EditText、ImageView　
+##### 5.2　Layout 布局
+1. LinearLayout　
+2. RelativeLayout　
+3. FrameLayout　
+4. TableLayout　
+5. AbsoluteLayout
+##### [实验2：登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
+##### [实验3：简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
 ##### 5.3　对话框　
 - 5.3.1　提示对话框　
 - 5.3.2　单选对话框　
