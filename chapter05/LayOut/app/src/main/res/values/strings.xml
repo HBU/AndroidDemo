@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">同学们好!</string>
+    <string name="app_name">ViewExample</string>
+</resources>

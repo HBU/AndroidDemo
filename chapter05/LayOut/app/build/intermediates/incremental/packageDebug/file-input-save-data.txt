@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Sep 04 22:41:27 CST 2017
+2.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc875f5f29b47c5f2e04a117c206966908dbd955\\classes.dex
+5.set=DEX
+3.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_contact_list_picture.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\cat_normal.jpg
+4.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\dog.jpg
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_test.xml
+5.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc875f5f29b47c5f2e04a117c206966908dbd955
+8.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85c1ca15ef5e0f5288a1890c1f83b85cfba18ed\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+10.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=DEX
+7.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\cat.jpg
+3.set=ANDROID_RESOURCE
+1.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85c1ca15ef5e0f5288a1890c1f83b85cfba18ed
+9.base=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

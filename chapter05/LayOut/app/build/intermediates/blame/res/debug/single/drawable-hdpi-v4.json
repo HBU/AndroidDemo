@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat_normal.jpg",
+        "source": "C:\\MyApp\\book\\s5\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\cat_normal.jpg"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dog.jpg",
+        "source": "C:\\MyApp\\book\\s5\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\dog.jpg"
+    },
+    {
+        "merged": "C:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat.jpg",
+        "source": "C:\\MyApp\\book\\s5\\ViewExample\\app\\src\\main\\res\\drawable-hdpi\\cat.jpg"
+    }
+]
