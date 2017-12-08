@@ -23,44 +23,45 @@ public class ViewExampleActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main_test);
-//        textView1 = (TextView) findViewById(R.id.textText1);
-//        imageView1 = (ImageView) findViewById(R.id.imageView1);
-//        button1 = (Button) findViewById(R.id.button1);
-//
-//        button1.setOnClickListener(new OnClickListener() {
-//			@Override
-//			public void onClick(View v) {
-//
-//				if(flag) {
-//					imageView1.setImageResource(R.drawable.dog);
-//					button1.setText("A-->B");
-//				} else {
-//					imageView1.setImageResource(R.drawable.cat_normal);
-//					button1.setText("B-->A");
-//				}
-//				flag = !flag;
-//			}
-//		});
-//
-//        editText1 = (EditText) findViewById(R.id.editText1);
-//        editText1.addTextChangedListener(new TextWatcher() {
-//
-//			@Override
-//			public void onTextChanged(CharSequence s, int start, int before, int count) {
-//
-//			}
-//
-//			@Override
-//			public void beforeTextChanged(CharSequence s, int start, int count,
-//					int after) {
-//			}
-//
-//			@Override
-//			public void afterTextChanged(Editable s) {
-//				textView1.setText(s.toString());
-//			}
-//		});
+        //setContentView(R.layout.main_test);
+        setContentView(R.layout.main);
+        textView1 = (TextView) findViewById(R.id.textText1);
+        imageView1 = (ImageView) findViewById(R.id.imageView1);
+        button1 = (Button) findViewById(R.id.button1);
+
+        button1.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+
+				if(flag) {
+					imageView1.setImageResource(R.drawable.dog);
+					button1.setText("A-->B");
+				} else {
+					imageView1.setImageResource(R.drawable.cat_normal);
+					button1.setText("B-->A");
+				}
+				flag = !flag;
+			}
+		});
+
+        editText1 = (EditText) findViewById(R.id.editText1);
+        editText1.addTextChangedListener(new TextWatcher() {
+
+			@Override
+			public void onTextChanged(CharSequence s, int start, int before, int count) {
+
+			}
+
+			@Override
+			public void beforeTextChanged(CharSequence s, int start, int count,
+					int after) {
+			}
+
+			@Override
+			public void afterTextChanged(Editable s) {
+				textView1.setText(s.toString());
+			}
+		});
 
         
     }

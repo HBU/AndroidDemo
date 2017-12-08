@@ -1,4 +1,4 @@
-#Mon Sep 04 21:15:36 CST 2017
-base.0=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+#Fri Dec 08 17:30:34 CST 2017
+base.0=C\:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=C\:\\MyApp\\book\\s5\\ViewExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
