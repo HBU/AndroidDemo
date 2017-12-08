@@ -23,10 +23,7 @@ LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### 实验2：[登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
 ##### 实验3：[简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
 ##### 5.3　[对话框](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Dialog)　
-##### 5.4　菜单　
-- 5.4.1　上下文菜单　
-- 5.4.2　选项菜单　
-- 5.4.3　下拉菜单　
+##### 5.4　[菜单](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Menu)
 ##### 5.5　[Toast](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ToastDemo)　　
 ##### 5.6　Notification　
 - 5.6.1　常规Notification　
