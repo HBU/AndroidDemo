@@ -1,5 +1,5 @@
 # AndroidDemo
-##### 开发环境：Android Studio 3.0.1 / Gradle 4.1 。
+##### 开发环境：Android Studio 3.0.1 / Gradle 4.1
 ----------------------------------
 ### 第1章　Android简介
 - [安装Android Studio](https://github.com/HBU/AndroidDemo/tree/master/chapter01)　
