@@ -7,4 +7,4 @@ https://github.com/HBU/AndroidDemo/blob/master/CalculatorDemo/app/src/main/res/l
 - 掌握以上内容，简易计算器APP即可制作完成。
 ## 效果图：   
 
-![效果图](https://github.com/HBU/AndroidDemo/blob/master/CalculatorDemo/calculator.png)
+![效果图](https://github.com/HBU/AndroidDemo/blob/master/chapter05/CalculatorDemo/calculator.png)
