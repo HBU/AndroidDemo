@@ -1,5 +1,7 @@
 # AndroidDemo
 ##### 开发环境：Android Studio 3.0.1 / Gradle 4.1
+##### Ref:http://www.ryjiaoyu.com/book/details/6895#
+##### Ref:https://github.com/guolindev/booksource
 ----------------------------------
 ### 第1章　Android简介
 ##### [安装Android Studio](https://github.com/HBU/AndroidDemo/tree/master/chapter01)　
@@ -26,8 +28,8 @@ LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### 5.4　[菜单](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Menu)
 ##### 5.5　[Toast](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ToastDemo)　　
 ##### 5.6　[Notification](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Notification)
-##### 5.7　ListView列表　
-##### 扩展RecyclerView　
+##### 5.7　[ListView列表](https://github.com/HBU/AndroidDemo/blob/master/chapter05/ListViewTest/ListView.png)　
+##### 扩展学习：[RecyclerView]()　
 ----------------------------------
 ### 第６章　服务　
 ##### 6.1　本地服务　
