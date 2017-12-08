@@ -24,8 +24,8 @@ Button、TextView、EditText、ImageView　
 LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### 实验2：[登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
 ##### 实验3：[简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
-##### 5.3　[对话框](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Dialog)　
-##### 5.4　[菜单](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Menu) [下拉菜单spinner](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Spineer)
+##### 5.3　[Dialog对话框](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Dialog)　
+##### 5.4　[Menu菜单](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Menu) [spinner下拉菜单](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Spineer)
 ##### 5.5　[Toast](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ToastDemo)　　
 ##### 5.6　[Notification](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Notification)
 ##### 5.7　[ListView列表](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ListViewTest)　
