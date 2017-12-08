@@ -5,7 +5,7 @@
 ##### [安装Android Studio](https://github.com/HBU/AndroidDemo/tree/master/chapter01)　
 ----------------------------------
 ### 第2章　Android项目
-##### 实验1：[第一个程序 HelloWorld](https://github.com/HBU/AndroidDemo/tree/master/chapter02)
+##### [实验1：第一个程序 HelloWorld](https://github.com/HBU/AndroidDemo/tree/master/chapter02)
 ----------------------------------
 ### 第3章　Android基本原理
 ##### [Android体系结构、运行原理](https://github.com/HBU/AndroidDemo/tree/master/chapter03)
@@ -26,8 +26,7 @@
 - 5.2.3　FrameLayout　
 - 5.2.4　TableLayout　
 - 5.2.5　AbsoluteLayout　
-#####
-实验2：简易计算器
+##### [实验2：简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
 ##### 5.3　对话框　
 - 5.3.1　提示对话框　
 - 5.3.2　单选对话框　
