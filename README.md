@@ -29,6 +29,7 @@ LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### 5.6　[Notification](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Notification)
 ##### 5.7　[ListView列表](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ListViewTest)　
 ##### 扩展学习：[RecyclerView](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ReckyclerViewTest)　
+##### 5.8 AppWidget
 ----------------------------------
 ### 第６章　服务　
 ##### 6.1　本地服务　
