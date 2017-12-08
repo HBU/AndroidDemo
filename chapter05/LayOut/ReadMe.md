@@ -1,2 +1,2 @@
-# 常用组件
-![](https://github.com/HBU/AndroidDemo/blob/master/chapter05/ViewExample/View.png)
+# 线性布局（垂直）
+![](https://github.com/HBU/AndroidDemo/blob/master/chapter05/LayOut/LinerLayout.png)
