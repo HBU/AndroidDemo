@@ -22,16 +22,7 @@ Button、TextView、EditText、ImageView　
 LinearLayout、RelativeLayout、FrameLayout、TableLayout、AbsoluteLayout
 ##### [实验2：登录界面制作](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Login)
 ##### [实验3：简易计算器](https://github.com/HBU/AndroidDemo/tree/master/chapter05/CalculatorDemo)
-##### 5.3　对话框　
-- 5.3.1　提示对话框　
-- 5.3.2　单选对话框　
-- 5.3.3　复选对话框　
-- 5.3.4　列表对话框　
-- 5.3.5　进度条对话框　
-- 5.3.6　日期选择对话框　
-- 5.3.7　时间选择对话框　
-- 5.3.8　拖动对话框　
-- 5.3.9　自定义对话框　
+##### 5.3　[对话框](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Dialog)　
 ##### 5.4　菜单　
 - 5.4.1　上下文菜单　
 - 5.4.2　选项菜单　
