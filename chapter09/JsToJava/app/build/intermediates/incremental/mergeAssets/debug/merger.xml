@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\AndroidStudio\android_workspace\JsToJava\app\src\main\assets"><file name="android_normal.png" path="D:\AndroidStudio\android_workspace\JsToJava\app\src\main\assets\android_normal.png"/><file name="demo.html" path="D:\AndroidStudio\android_workspace\JsToJava\app\src\main\assets\demo.html"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidStudio\android_workspace\JsToJava\app\src\debug\assets"/></dataSet></merger>
