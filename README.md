@@ -32,10 +32,10 @@
 ##### 5.8 AppWidget
 ----------------------------------
 ### 第６章　服务　
-##### 6.1　[本地服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06/PlayMedia)　
 [生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter06/ServiceTest)　
-##### 6.2　远程服务　
-##### 6.3　服务小实例　
+[绑定服务](https://github.com/HBU/AndroidDemo/blob/master/chapter06/ServiceBind/ReadMe.md)
+##### 6.1　[本地服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06/PlayMedia)　
+##### 6.2　[远程服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06/remote_service)　
 ----------------------------------
 ### 第7章　广播　
 ##### 7.1　发送和接收广播　
