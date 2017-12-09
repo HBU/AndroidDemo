@@ -1,4 +1,5 @@
 # 第7章　广播
+![](https://github.com/HBU/AndroidDemo/blob/master/chapter07/3.png)
 ## 作用
 - 用于监听 / 接收 应用发出的广播消息，并做出响应
 ## 应用场景
