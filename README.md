@@ -39,7 +39,8 @@
 ----------------------------------
 ### 第7章　[广播](https://github.com/HBU/AndroidDemo/tree/master/chapter07)　
 ##### [广播的生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter07/broadcast)　
-##### [广播小实例1](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastBattery)[广播小实例2](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastCustom)　
+##### [广播小实例1](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastBattery)
+##### [广播小实例2](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastCustom)　
 ----------------------------------
 ### 第8章　[数据存储和提供器](https://github.com/HBU/AndroidDemo/tree/master/chapter08)　
 ##### 8.1　SharedPreference存储　
