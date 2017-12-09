@@ -31,14 +31,13 @@
 ##### 扩展学习：[RecyclerView](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ReckyclerViewTest)　
 ##### 5.8 AppWidget
 ----------------------------------
-### 第６章　服务　
-##### 6.1　本地服务　
-- 6.1.1　两种启动方式　
-- 6.1.2　生命周期　
-##### 6.2　远程服务　
-##### 6.3　服务小实例　
+### 第６章　[服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06)　
+[生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter06/ServiceTest)　
+[绑定服务](https://github.com/HBU/AndroidDemo/blob/master/chapter06/ServiceBind/ReadMe.md)
+##### 6.1　[本地服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06/PlayMedia)　
+##### 6.2　[远程服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06/remote_service)　
 ----------------------------------
-### 第7章　广播　
+### 第7章　[广播](https://github.com/HBU/AndroidDemo/tree/master/chapter07)　
 ##### 7.1　发送和接收广播　
 - 7.1.1　发送广播　
 - 7.1.2　接收广播　
@@ -47,7 +46,7 @@
 - 7.1.5　常见广播Action常量　
 ##### 7.2　广播小实例　
 ----------------------------------
-### 第8章　数据存储和提供器　
+### 第8章　[数据存储和提供器](https://github.com/HBU/AndroidDemo/tree/master/chapter08)　
 ##### 8.1　SharedPreference存储　
 ##### 8.2　SQLite存储　
 - 8.2.1　SQLite简介　
@@ -55,7 +54,7 @@
 ##### 8.3　ContentProvider存储　
 ##### 8.4　文件存储　
 ----------------------------------
-### 第9章　Android网络通信编程　
+### 第9章　[Android网络通信编程](https://github.com/HBU/AndroidDemo/tree/master/chapter09)　
 ##### 9.1　网络访问方式　
 - 9.1.1　HTTP通信　
 - 9.1.2　Socket通信　
@@ -67,7 +66,7 @@
 - 9.4.1　WebView　
 - 9.4.2　在WebView中使用JavaScript
 ----------------------------------
-### 第10章　进程与消息处理　
+### 第10章　[进程与消息处理](https://github.com/HBU/AndroidDemo/tree/master/chapter10)　
 ##### 10.1　进程与线程　
 - 10.1.1　什么是进程　
 - 10.1.2　进程模型　
