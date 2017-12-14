@@ -10,3 +10,7 @@
 ## 效果图
 
 ![](https://github.com/HBU/AndroidDemo/blob/master/chapter02/HelloWorld.jpg)
+
+## 文件结构
+
+![](https://github.com/HBU/AndroidDemo/blob/master/chapter02/QQ%E6%88%AA%E5%9B%BE20171209220834.jpg)
