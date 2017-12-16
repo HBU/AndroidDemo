@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         myMenu =(TextView)findViewById(R.id.david);
         registerForContextMenu(myMenu);//注册事件
+
     }
 
     //////////////////////////////////////////////////////////
@@ -26,10 +27,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         //四个参数的含义:
+
         // 1.group的id;2.item的id;3.是否排序;4.将要显示的内容
-        menu.add(0, 1, 0, "河北大学计算机学院");
-        menu.add(0, 2, 0, "河北大学电信学院");
-        menu.add(0, 3, 0, "河北大学新闻学院");
+        menu.add(0, 1, 0, "计算机科学与技术");
+        menu.add(0, 2, 0, "网络工程");
+        menu.add(0, 3, 0, "信息安全");
 //        menu.add(0, 4, 0, "河北大学艺术学院");
 //        menu.add(0, 5, 0, "河北大学质检学院");
 //        SubMenu sub = menu.addSubMenu("子菜单");

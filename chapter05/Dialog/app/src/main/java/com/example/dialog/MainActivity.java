@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
     public void onDialogClick4(View v){
         final String[] items1={"北京","上海","广州","深圳","天津","保定"};
         AlertDialog dialog = new AlertDialog.Builder(this)
-                .setTitle("单选对话框")
+                .setTitle("列表对话框")
                 .setIcon(R.drawable.cat_small)
                 .setItems(items1, new DialogInterface.OnClickListener() {
 
