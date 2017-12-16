@@ -1,7 +1,11 @@
-# 第10章　进程与消息处理
-- 线程Thread
-- 异步，回调
-- Android消息机制
----------------
-- Handler
-- AsyncTask
+### 第10章　[进程与消息处理](https://github.com/HBU/AndroidDemo/tree/master/chapter10)　
+##### 10.1　[线程定义](https://github.com/HBU/AndroidDemo/tree/master/chapter10/ThreadDemo)　
+##### 10.2　Handler和AsynTask　
+- 10.2.1　[Handler的基本概念](https://github.com/HBU/AndroidDemo/tree/master/chapter10/Handler_learning)　　
+- 10.2.3　[Handler的使用](https://github.com/HBU/AndroidDemo/tree/master/chapter10/HandlerDemo)　
+- 实验：[线程修改UI测试](https://github.com/HBU/AndroidDemo/tree/master/chapter10/ThreadUpdateTest)
+- 10.2.4　[AsyncTask的介绍](https://github.com/HBU/AndroidDemo/tree/master/chapter10/AsyncTask_learning)　
+- 10.2.5　[AsyncTask的使用](https://github.com/HBU/AndroidDemo/tree/master/chapter10/AsyncTaskExample)　
+- 实验：[子线程更新UI总结](https://github.com/HBU/AndroidDemo/tree/master/chapter10/UpdateUIinSubthread)
+##### 实验：[线程间通信](https://github.com/HBU/AndroidDemo/tree/master/chapter10/CommSubThread)
+##### 10.3　[Application](https://github.com/HBU/AndroidDemo/tree/master/chapter10/CustomApplication)　
