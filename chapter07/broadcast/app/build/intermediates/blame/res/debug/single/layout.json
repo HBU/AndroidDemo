@@ -2,5 +2,9 @@
     {
         "merged": "C:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\MyApp\\book\\s7\\broadcast\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]

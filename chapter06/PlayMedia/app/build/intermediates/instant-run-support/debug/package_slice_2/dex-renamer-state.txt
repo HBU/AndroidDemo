@@ -1,4 +1,4 @@
-#Mon Oct 16 23:31:35 CST 2017
-base.0=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+#Mon Jan 01 16:46:51 CST 2018
+base.0=C\:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

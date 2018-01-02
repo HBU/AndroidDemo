@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\raw_despacio.mp3.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\raw\\despacio.mp3"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound.mp3.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\raw\\sound.mp3"
+    }
+]

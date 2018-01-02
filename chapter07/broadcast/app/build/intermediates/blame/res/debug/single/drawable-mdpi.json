@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
         "merged": "C:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
         "source": "C:\\MyApp\\book\\s7\\broadcast\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     }
