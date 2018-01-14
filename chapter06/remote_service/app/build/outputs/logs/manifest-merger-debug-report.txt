@@ -1,52 +1,63 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:3:7-46
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:3:7-46
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:5:7-32
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:4:7-30
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
 	android:targetSdkVersion
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:5-43
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:6:15-40
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
-		INJECTED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:8:5-19:19
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:8:5-19:19
 	android:label
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:8:48-80
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:8:48-80
 	android:icon
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:8:18-47
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:8:18-47
 activity#com.androidbook.remoteservice.Remote_serviceActivity
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:9:9-15:20
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:9:9-15:20
 	android:label
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:10:19-51
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:10:19-51
 	android:name
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:9:19-57
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:9:19-57
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:11:13-14:29
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:11:13-14:29
 action#android.intent.action.MAIN
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:12:17-69
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:12:17-69
 	android:name
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:12:25-66
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:12:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:13:17-77
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:13:17-77
 	android:name
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:13:27-74
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:13:27-74
 service#com.androidbook.remoteservice.MusicService
-ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:17:3-51
+ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:17:3-51
 	android:name
-		ADDED from C:\MyApp\book\s6\remote_service\app\src\main\AndroidManifest.xml:17:12-40
+		ADDED from C:\GitHub\AndroidDemo\chapter06\remote_service\app\src\main\AndroidManifest.xml:17:12-40

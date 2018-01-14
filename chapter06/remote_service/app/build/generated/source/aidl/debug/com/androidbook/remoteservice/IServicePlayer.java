@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\MyApp\\book\\s6\\remote_service\\app\\src\\main\\aidl\\com\\androidbook\\remoteservice\\IServicePlayer.aidl
+ * Original file: C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\aidl\\com\\androidbook\\remoteservice\\IServicePlayer.aidl
  */
 package com.androidbook.remoteservice;
 public interface IServicePlayer extends android.os.IInterface

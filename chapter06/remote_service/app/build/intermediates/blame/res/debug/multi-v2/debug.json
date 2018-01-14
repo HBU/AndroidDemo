@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "126,55",
+                        "endColumns": "51,70",
+                        "endOffsets": "173,121"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,70",
+                        "endOffsets": "102,173"
+                    }
+                }
+            ]
+        }
+    ]
+}

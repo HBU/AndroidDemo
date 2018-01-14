@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_bg_green.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_bg_green.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw_chengdu.mp3.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\raw\\chengdu.mp3"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thumb.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\thumb.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_bg.xml.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_bg.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_bg_grey.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_bg_grey.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thumb_green.png.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\thumb_green.png"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_thumb.xml.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw_today.mp3.flat",
+        "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\raw\\today.mp3"
+    }
+]
