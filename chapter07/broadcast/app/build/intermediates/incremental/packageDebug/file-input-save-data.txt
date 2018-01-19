@@ -1,21 +1,21 @@
 #Internal package file, do not edit.
-#Fri Oct 20 14:15:47 CST 2017
-2.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e36147018c82c2ead7443a47bb0f3f57603a3c78
-5.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-5.set=ANDROID_RESOURCE
-3.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db2f1f35a402397d2f79f97cb6fcec007a17c3b
-2.set=DEX
-4.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+#Fri Jan 19 16:06:36 CST 2018
+2.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97904fc8a184b7446122601c032468d23ac1d036\\classes.dex
+5.set=DEX
+3.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8af7032418e494a0b2d9662f85bd9f535ba8e0db
+2.set=ANDROID_RESOURCE
+4.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
 count=6
-0.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
-5.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97904fc8a184b7446122601c032468d23ac1d036
 4.set=ANDROID_RESOURCE
-1.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 1.set=ANDROID_RESOURCE
-2.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e36147018c82c2ead7443a47bb0f3f57603a3c78\\classes.dex
-0.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db2f1f35a402397d2f79f97cb6fcec007a17c3b\\classes.dex
+2.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+0.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8af7032418e494a0b2d9662f85bd9f535ba8e0db\\classes.dex
 3.set=DEX
-1.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 0.set=ANDROID_RESOURCE

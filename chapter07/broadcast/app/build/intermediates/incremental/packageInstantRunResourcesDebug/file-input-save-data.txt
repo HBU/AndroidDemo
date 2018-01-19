@@ -1,15 +1,15 @@
 #Internal package file, do not edit.
-#Fri Oct 20 14:15:39 CST 2017
-1.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
-2.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+#Fri Jan 19 16:06:32 CST 2018
+1.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
 3.set=ANDROID_RESOURCE
 2.set=ANDROID_RESOURCE
-2.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
 count=4
 1.set=ANDROID_RESOURCE
-3.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.set=ANDROID_RESOURCE
-0.base=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-0.file=C\:\\MyApp\\book\\s7\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.base=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
