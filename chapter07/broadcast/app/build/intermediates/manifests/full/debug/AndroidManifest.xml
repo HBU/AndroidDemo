@@ -9,8 +9,10 @@
         android:targetSdkVersion="8" />
 
     <application
+        android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="@string/app_name" >
+        android:label="@string/app_name"
+        android:testOnly="true" >
         <activity
             android:name="com.androidbook.broadcast.BroadcastActivity"
             android:label="@string/app_name" >

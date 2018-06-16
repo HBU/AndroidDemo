@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",
-                        "startOffsets": "121,55",
+                        "startOffsets": "124,57",
                         "endColumns": "46,65",
-                        "endOffsets": "163,116"
+                        "endOffsets": "166,118"
                     },
                     "to": {
                         "startLines": "2,3",

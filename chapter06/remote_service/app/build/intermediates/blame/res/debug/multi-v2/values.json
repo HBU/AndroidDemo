@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",
-                        "startOffsets": "126,55",
+                        "startOffsets": "129,57",
                         "endColumns": "51,70",
-                        "endOffsets": "173,121"
+                        "endOffsets": "176,123"
                     },
                     "to": {
                         "startLines": "2,3",
