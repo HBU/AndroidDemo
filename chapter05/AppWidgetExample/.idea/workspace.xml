@@ -35,11 +35,9 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="46" />
-              <folding>
-                <element signature="e#318#336#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="13" column="79" lean-forward="false" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2073,6 +2071,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dialog" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2409,11 +2408,9 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="e#318#336#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="13" column="79" lean-forward="false" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+          <folding />
         </state>
       </provider>
     </entry>

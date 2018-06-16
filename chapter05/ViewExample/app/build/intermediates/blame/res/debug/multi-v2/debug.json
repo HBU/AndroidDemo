@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\GitHub\\AndroidDemo\\chapter05\\ViewExample\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1,2",
-                        "startColumns": "-1,4",
-                        "startOffsets": "-1,55",
-                        "endColumns": "-1,39",
-                        "endOffsets": "-1,90"
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "98,57",
+                        "endColumns": "48,39",
+                        "endOffsets": "142,92"
                     },
                     "to": {
                         "startLines": "2,3",

@@ -1,0 +1,4 @@
+#Sat Jun 16 16:27:33 CST 2018
+base.0=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

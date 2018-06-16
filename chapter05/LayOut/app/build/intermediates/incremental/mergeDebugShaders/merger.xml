@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\GitHub\AndroidDemo\chapter05\LayOut\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\GitHub\AndroidDemo\chapter05\LayOut\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\GitHub\AndroidDemo\chapter05\LayOut\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\GitHub\AndroidDemo\chapter05\LayOut\app\src\debug\shaders"/></dataSet></merger>

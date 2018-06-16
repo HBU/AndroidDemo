@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",
-                        "startOffsets": "130,55",
+                        "startOffsets": "133,57",
                         "endColumns": "55,74",
-                        "endOffsets": "181,125"
+                        "endOffsets": "184,127"
                     },
                     "to": {
                         "startLines": "2,3",
