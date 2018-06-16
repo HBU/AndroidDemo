@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_info.xml.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contact_list_picture.jpg.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_list_picture.jpg"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

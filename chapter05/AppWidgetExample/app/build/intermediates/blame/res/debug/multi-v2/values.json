@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "127,-1",
+                        "endColumns": "53,-1",
+                        "endOffsets": "176,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,68",
+                        "endOffsets": "104,173"
+                    }
+                }
+            ]
+        }
+    ]
+}
