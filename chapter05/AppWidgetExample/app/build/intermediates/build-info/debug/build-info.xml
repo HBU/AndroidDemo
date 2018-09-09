@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="27"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    ir-eligibility="COMPATIBLE"
+    plugin-version="3.1.4"
+    timestamp="1536484308267"
+    token="-4654106890875435148"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="122" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1536483888040"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1536484308267"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+    </build>
+
+</instant-run>

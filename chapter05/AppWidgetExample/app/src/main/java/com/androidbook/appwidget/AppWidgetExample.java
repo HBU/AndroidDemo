@@ -23,13 +23,13 @@ public class AppWidgetExample extends AppWidgetProvider {
 		// 相当于获得所有本程序创建的appwidget
 		ComponentName componentName = new ComponentName(context,AppWidgetExample.class);
 		if (intent.getAction().equals(UPDATE_ACTION_PREVIEW)) {
-			remoteViews.setTextViewText(R.id.textView1, "上上上一条哈哈");
+			remoteViews.setTextViewText(R.id.textView1, "Front");
 			remoteViews.setImageViewResource(R.id.imageView1, R.drawable.ic_contact_list_picture);
 		} else if (intent.getAction().equals(UPDATE_ACTION_NEXT)) {
-			remoteViews.setTextViewText(R.id.textView1, "下下下一条哈哈");
+			remoteViews.setTextViewText(R.id.textView1, "Next");
 			remoteViews.setImageViewResource(R.id.imageView1, R.drawable.icon);
 		} else {
-			remoteViews.setTextViewText(R.id.textView1, "系统自动更新广播");
+			remoteViews.setTextViewText(R.id.textView1, "system automatic update broadcast");
 			remoteViews.setImageViewResource(R.id.imageView1, R.drawable.ic_contact_list_picture);
 		}
 		// 更新appwidget

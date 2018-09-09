@@ -14,28 +14,36 @@
 		android:layout_width="match_parent">
 	</TextView>
 
-	<TextView android:layout_height="fill_parent" android:id="@+id/textView2"
-	android:background="#fff"
-	android:layout_weight="1"
-	android:textSize="20sp"
+	<TextView
+		android:layout_height="fill_parent"
+		android:id="@+id/textView2"
+		android:background="#fff"
+		android:layout_weight="1"
+		android:textSize="20sp"
 		android:text="TextView2"
 		android:layout_width="match_parent">
 
 	</TextView>
 
-	<TextView android:id="@+id/textView3" android:text="TextView3"
+	<TextView
+		android:id="@+id/textView3"
+		android:text="TextView3"
 		android:background="#00f"
 		android:textSize="20sp"
 		android:layout_weight="1"
-		android:layout_width="match_parent" android:layout_height="fill_parent">
+		android:layout_width="match_parent"
+		android:layout_height="fill_parent">
 
 	</TextView>
 
-	<TextView android:layout_height="fill_parent" android:id="@+id/textView4"
+	<TextView
+		android:layout_height="fill_parent"
+		android:id="@+id/textView4"
 		android:background="#000"
 		android:layout_weight="1"
 		android:textSize="20sp"
-		android:text="TextView4" android:layout_width="match_parent">
+		android:text="TextView4"
+		android:layout_width="match_parent">
 
 	</TextView>
 </LinearLayout>

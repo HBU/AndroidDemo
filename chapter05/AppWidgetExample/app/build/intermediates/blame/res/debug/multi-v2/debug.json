@@ -6,11 +6,11 @@
                 {
                     "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "3,-1",
-                        "startColumns": "4,-1",
-                        "startOffsets": "127,-1",
-                        "endColumns": "53,-1",
-                        "endOffsets": "176,-1"
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,57",
+                        "endColumns": "53,68",
+                        "endOffsets": "176,121"
                     },
                     "to": {
                         "startLines": "2,3",

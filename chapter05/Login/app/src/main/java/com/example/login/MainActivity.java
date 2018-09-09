@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onLoginClick(View v){
-        Toast.makeText(this, "登录功能暂未实现", Toast.LENGTH_SHORT).show();  //Toast.LENGTH_LONG（3.5秒）和Toast.LENGTH_SHORT（2秒）的值
+        Toast.makeText(this, "登录功能暂未实现", Toast.LENGTH_SHORT).show();
+        //Toast.LENGTH_LONG（3.5秒）和Toast.LENGTH_SHORT（2秒）的值
     }
 
     public void onRegClick(View v){
