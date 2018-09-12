@@ -15,7 +15,7 @@
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content" 
 		android:text="@string/hello" 
-		android:id="@+id/textText1"
+		android:id="@+id/textView1"
 	/>
 
 	<ImageView 

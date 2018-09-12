@@ -25,7 +25,7 @@ public class ViewExampleActivity extends Activity {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.main_test);
         setContentView(R.layout.main);
-        textView1 = (TextView) findViewById(R.id.textText1);
+        textView1 = (TextView) findViewById(R.id.textView1);
         imageView1 = (ImageView) findViewById(R.id.imageView1);
         button1 = (Button) findViewById(R.id.button1);
 
