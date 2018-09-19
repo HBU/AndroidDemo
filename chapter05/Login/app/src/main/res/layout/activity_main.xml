@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
         android:text="网络空间安全与计算机学院911"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="#000"
          />
 
     <EditText
