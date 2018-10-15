@@ -70,13 +70,13 @@ public class MainActivity extends AppCompatActivity {
     private void simpleNotify(){
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
         //Ticker是状态栏显示的提示
-        builder.setTicker("简单Notification");
+        builder.setTicker("111简单Notification");
         //第一行内容  通常作为通知栏标题
-        builder.setContentTitle("标题");
+        builder.setContentTitle("222标题");
         //第二行内容 通常是通知正文
-        builder.setContentText("通知内容");
+        builder.setContentText("333通知内容");
         //第三行内容 通常是内容摘要什么的 在低版本机器上不一定显示
-        builder.setSubText("这里显示的是通知第三行内容！");
+        builder.setSubText("444这里显示的是通知第三行内容！");
         //ContentInfo 在通知的右侧 时间的下面 用来展示一些其他信息
         //builder.setContentInfo("2");
         builder.setAutoCancel(true);

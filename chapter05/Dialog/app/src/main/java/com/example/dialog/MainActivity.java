@@ -37,9 +37,9 @@ public class MainActivity extends AppCompatActivity {
     }
     public void onDialogClick1(View v){
         new AlertDialog.Builder(MainActivity.this)
-                .setIcon(android.R.drawable.alert_dark_frame)
-                .setTitle("注意!!!")
-                .setMessage("确定要退出么???")
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .setTitle("注意")
+                .setMessage("确定要退出么?")
                 .setPositiveButton("确定", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int whichButton) {
                         finish();//Exit Activity
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onDialogClick2(View v){
-        final String[] items = {"男","女","F","M"};
+        final String[] items = {"男","女"};
 
         AlertDialog dialog = new AlertDialog.Builder(this)
                 .setTitle("单选对话框")

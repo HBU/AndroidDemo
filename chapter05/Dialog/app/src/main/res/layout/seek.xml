@@ -7,7 +7,7 @@
         android:id="@+id/tv_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="123456789"
         android:layout_below = "@+id/seekBar1"
         android:layout_centerHorizontal = "true"/>
 

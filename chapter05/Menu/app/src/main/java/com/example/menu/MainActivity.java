@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         myMenu =(TextView)findViewById(R.id.david);
         registerForContextMenu(myMenu);//注册事件
-
     }
 
     //////////////////////////////////////////////////////////
@@ -32,18 +31,18 @@ public class MainActivity extends AppCompatActivity {
         menu.add(0, 1, 0, "计算机科学与技术");
         menu.add(0, 2, 0, "网络工程");
         menu.add(0, 3, 0, "信息安全");
-//        menu.add(0, 4, 0, "河北大学艺术学院");
-//        menu.add(0, 5, 0, "河北大学质检学院");
-//        SubMenu sub = menu.addSubMenu("子菜单");
-//        sub.add(0, 5, 0, "子菜单一");
-//        sub.add(0, 6, 0, "子菜单二");
-//        sub.add(0, 7, 0, "子菜单三");
-//
-//        menu.add(1, 6, 0, "河北大学计算机学院");
-//        menu.add(1, 7, 1, "河北大学电信学院");
-//        menu.add(1, 8, 5, "河北大学新闻学院");
-//        menu.add(1, 9, 2, "河北大学艺术学院");
-//        menu.add(1, 10, 3, "河北大学质检学院");
+        menu.add(0, 4, 0, "河北大学艺术学院");
+        menu.add(0, 5, 0, "河北大学质检学院");
+        SubMenu sub = menu.addSubMenu("子菜单");
+        sub.add(0, 5, 0, "子菜单一");
+        sub.add(0, 6, 0, "子菜单二");
+        sub.add(0, 7, 0, "子菜单三");
+
+        menu.add(1, 6, 0, "河北大学计算机学院");
+        menu.add(1, 7, 1, "河北大学电信学院");
+        menu.add(1, 8, 5, "河北大学新闻学院");
+        menu.add(1, 9, 2, "河北大学艺术学院");
+        menu.add(1, 10, 3, "河北大学质检学院");
 
         return true;
     }
