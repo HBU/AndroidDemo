@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/qq_image"
+        android:src="@drawable/ic_launcher_background"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:id="@+id/qq_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/qq_image"
+        android:textSize="24sp"
+        android:hint="qq名"/>
+
+    <TextView
+        android:id="@+id/qq_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/qq_name"
+        android:layout_alignLeft="@id/qq_name"
+        android:layout_marginTop="10dp"
+        android:hint="qq签名QQ签名QQ签名"/>
+
+</RelativeLayout>
