@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:3:7-42
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
@@ -21,49 +21,49 @@ INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidMani
 		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:4:7-30
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:7:5-21:19
+	android:label
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:7:18-47
+activity#com.androidbook.playmedia.PlayMediaActivity
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:8:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:12:27-74
+service#com.androidbook.playmedia.Music
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:16:3-20:13
+	android:name
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:16:12-33
+intent-filter#action:name:com.androidbook.playmedia.Music
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:17:4-19:20
+action#com.androidbook.playmedia.Music
+ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:18:5-61
+	android:name
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:18:13-59
 uses-sdk
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
-INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:5-43
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:6:15-40
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
+		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
 		INJECTED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml
-application
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:8:5-22:19
-	android:label
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:8:48-80
-	android:icon
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:8:18-47
-activity#com.androidbook.playmedia.PlayMediaActivity
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:9:9-15:20
-	android:label
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:10:19-51
-	android:name
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:9:19-52
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:11:13-14:29
-action#android.intent.action.MAIN
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:12:17-69
-	android:name
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:12:25-66
-category#android.intent.category.LAUNCHER
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:13:17-77
-	android:name
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:13:27-74
-service#com.androidbook.playmedia.Music
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:17:3-21:13
-	android:name
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:17:12-33
-intent-filter#action:name:com.androidbook.playmedia.Music
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:18:4-20:20
-action#com.androidbook.playmedia.Music
-ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:19:5-61
-	android:name
-		ADDED from E:\GitHub\AndroidDemo\chapter06\PlayMedia\app\src\main\AndroidManifest.xml:19:13-59

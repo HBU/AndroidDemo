@@ -35,37 +35,38 @@ return this;
 }
 @Override public boolean onTransact(int code, android.os.Parcel data, android.os.Parcel reply, int flags) throws android.os.RemoteException
 {
+java.lang.String descriptor = DESCRIPTOR;
 switch (code)
 {
 case INTERFACE_TRANSACTION:
 {
-reply.writeString(DESCRIPTOR);
+reply.writeString(descriptor);
 return true;
 }
 case TRANSACTION_play:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 this.play();
 reply.writeNoException();
 return true;
 }
 case TRANSACTION_pause:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 this.pause();
 reply.writeNoException();
 return true;
 }
 case TRANSACTION_stop:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 this.stop();
 reply.writeNoException();
 return true;
 }
 case TRANSACTION_getDuration:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 int _result = this.getDuration();
 reply.writeNoException();
 reply.writeInt(_result);
@@ -73,7 +74,7 @@ return true;
 }
 case TRANSACTION_getCurrentPosition:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 int _result = this.getCurrentPosition();
 reply.writeNoException();
 reply.writeInt(_result);
@@ -81,7 +82,7 @@ return true;
 }
 case TRANSACTION_seekTo:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 int _arg0;
 _arg0 = data.readInt();
 this.seekTo(_arg0);
@@ -90,7 +91,7 @@ return true;
 }
 case TRANSACTION_setLoop:
 {
-data.enforceInterface(DESCRIPTOR);
+data.enforceInterface(descriptor);
 boolean _arg0;
 _arg0 = (0!=data.readInt());
 boolean _result = this.setLoop(_arg0);
@@ -98,8 +99,11 @@ reply.writeNoException();
 reply.writeInt(((_result)?(1):(0)));
 return true;
 }
-}
+default:
+{
 return super.onTransact(code, data, reply, flags);
+}
+}
 }
 private static class Proxy implements com.androidbook.remoteservice.IServicePlayer
 {
@@ -130,8 +134,6 @@ _reply.recycle();
 _data.recycle();
 }
 }
-//播放
-
 @Override public void pause() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
@@ -146,8 +148,6 @@ _reply.recycle();
 _data.recycle();
 }
 }
-//暂停
-
 @Override public void stop() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
@@ -196,8 +196,6 @@ _data.recycle();
 }
 return _result;
 }
-//当前位置
-
 @Override public void seekTo(int current) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
@@ -213,8 +211,6 @@ _reply.recycle();
 _data.recycle();
 }
 }
-//拖动位置
-
 @Override public boolean setLoop(boolean loop) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
@@ -243,18 +239,10 @@ static final int TRANSACTION_seekTo = (android.os.IBinder.FIRST_CALL_TRANSACTION
 static final int TRANSACTION_setLoop = (android.os.IBinder.FIRST_CALL_TRANSACTION + 6);
 }
 public void play() throws android.os.RemoteException;
-//播放
-
 public void pause() throws android.os.RemoteException;
-//暂停
-
 public void stop() throws android.os.RemoteException;
 public int getDuration() throws android.os.RemoteException;
 public int getCurrentPosition() throws android.os.RemoteException;
-//当前位置
-
 public void seekTo(int current) throws android.os.RemoteException;
-//拖动位置
-
 public boolean setLoop(boolean loop) throws android.os.RemoteException;
 }

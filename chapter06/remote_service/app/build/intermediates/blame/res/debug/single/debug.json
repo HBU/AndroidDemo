@@ -20,12 +20,12 @@
         "source": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw_today.mp3.flat",
-        "source": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\raw\\today.mp3"
-    },
-    {
         "merged": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw_chengdu.mp3.flat",
         "source": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\raw\\chengdu.mp3"
+    },
+    {
+        "merged": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\raw_today.mp3.flat",
+        "source": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\src\\main\\res\\raw\\today.mp3"
     },
     {
         "merged": "E:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
