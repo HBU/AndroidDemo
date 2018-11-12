@@ -2,42 +2,37 @@
 <instant-run
     abi="x86"
     api-level="27"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="420dpi"
     format="10"
-    plugin-version="3.1.3"
-    timestamp="1529138465105"
+    plugin-version="3.2.1"
+    timestamp="1541982868428"
     token="7820694309222557272"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="63" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="20" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="34" />
     <task
         name="verifier"
-        duration="0" />
+        duration="14" />
+
+    <artifact
+        location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1529138350507"
+        timestamp="1541982680863"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -46,27 +41,40 @@
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1529138465105"
-        verifier="COLD_SWAP_REQUESTED" />
+        build-mode="HOT_WARM"
+        timestamp="1541982868428"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
 
 </instant-run>

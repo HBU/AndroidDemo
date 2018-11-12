@@ -17,7 +17,7 @@ public class Music extends Service{
 	@Override
 	public void onCreate() {
 		super.onCreate();
-		this.mediaPlayer = MediaPlayer.create( this, R.raw.sound);
+		this.mediaPlayer = MediaPlayer.create( this, R.raw.despacio);
 		this.mediaPlayer.start();
 	}
 
