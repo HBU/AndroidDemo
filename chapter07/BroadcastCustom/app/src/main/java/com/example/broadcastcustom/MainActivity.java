@@ -1,8 +1,10 @@
 package com.example.broadcastcustom;
 
+import android.content.ComponentName;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
@@ -17,8 +19,17 @@ public class MainActivity extends AppCompatActivity {
 
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                Intent intent = new Intent("com.example.broadcastcustom.MY_BROADCAST");
+                Intent intent = new Intent();
+                //设置广播的名字（设置Action）
+                intent.setAction("com.example.broadcastcustom.myBroadCast");
+                //携带数据
+                intent.putExtra("data","Hello David");
+                //Android8在静态广播的使用上做了一些限制
+                //https://blog.csdn.net/yegshun/article/details/81232775
+                intent.setComponent(new ComponentName("com.example.broadcastcustom","com.example.broadcastcustom.MyBroadcastReceiver"));
+                //发送广播（无序广播）
                 sendBroadcast(intent);
+                Log.e("David","Broadcast sended !");
             }
         });
 
