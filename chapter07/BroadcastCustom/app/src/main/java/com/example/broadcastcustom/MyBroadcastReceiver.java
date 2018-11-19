@@ -17,7 +17,7 @@ public class MyBroadcastReceiver extends android.content.BroadcastReceiver {
         if (intent.getAction().equals("com.example.broadcastcustom.myBroadCast")) {
             //接收到广播，取出里面携带的数据
             String str = intent.getStringExtra("data");
-            System.out.println();
+
             Log.e("David","接收到的广播的数据：" + str);
             Toast.makeText(context, "收到广播~", Toast.LENGTH_SHORT).show();
         }

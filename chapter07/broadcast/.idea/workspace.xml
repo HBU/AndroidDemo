@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CUSTOM_FILTER" value="BroadcastReceiver" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
@@ -12,28 +17,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b4388b-ce1c-4264-9bc7-7834fab3d484" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DynamicBroadcast/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DynamicBroadcast/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DynamicBroadcast/app/src/main/java/cn/hbu/cs/dynamicbroadcast/MyBroadcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BroadcastBattery/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastBattery/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BroadcastBattery/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastBattery/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/java/com/example/broadcastcustom/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/java/com/example/broadcastcustom/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/java/com/example/broadcastcustom/MyBroadcastReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/app/src/main/java/com/example/broadcastcustom/MyBroadcastReceiver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BroadcastReceiverActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BroadcastReceiverActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,11 +49,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BroadcastActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="65" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="330">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -68,7 +73,7 @@
       <file leaf-file-name="BroadcastReceiverActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="294">
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
@@ -2267,10 +2272,11 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -2283,8 +2289,52 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broadcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2449,7 +2499,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2461,17 +2510,17 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Logcat" order="7" weight="0.3282313" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="7" visible="true" weight="0.3270869" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1622449" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32879046" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1734694" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32879046" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2488,6 +2537,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
@@ -2497,13 +2560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -2519,8 +2575,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="330">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="65" />
         </state>
       </provider>
     </entry>

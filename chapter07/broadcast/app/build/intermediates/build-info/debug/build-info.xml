@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1541990685218"
+    timestamp="1542108939547"
     token="7820694309222557272"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,10 +22,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -76,5 +72,9 @@
             location="E:\GitHub\AndroidDemo\chapter07\broadcast\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1542108939547"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -22,7 +22,7 @@ public class MyOpenHelper extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase db) {//创建数据库时,调用此方法
         Log.d("MainActivity", "数据库创建成功");
         //创建一个学生表
-        db.execSQL("create table student(_id integer primary key autoincrement, name char(10), age integer, no integer, cpp float, math float, english float)");
+        db.execSQL("create table student(_id integer primary key autoincrement, name char(10), age integer, sno integer, cpp float, math float, english float)");
     }
 
     @Override
