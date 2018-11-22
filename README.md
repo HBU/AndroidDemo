@@ -1,5 +1,5 @@
 # AndroidDemo
-##### 开发环境：Android Studio 3.0.1 / Gradle 4.1
+##### 开发环境：Android Studio 3.2.1 / Gradle 4.6
 ##### Ref:http://www.ryjiaoyu.com/book/details/6895#
 ##### Ref:https://github.com/guolindev/booksource
 ----------------------------------
