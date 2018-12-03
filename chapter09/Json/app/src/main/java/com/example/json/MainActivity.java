@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void parseJson(){
         try {
+            Log.e("wyg",responseText.getText().toString());
             JSONObject object = new JSONObject(responseText.getText().toString());
             JSONArray array = object.getJSONArray("phone");
             String phone = array.get(0).toString();
@@ -106,25 +107,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 HttpURLConnection connection = null;
                 BufferedReader reader = null;
                 try {
-                    //获取到HttpConnection的实例，new出一个URL对象，并传入目标的网址，
-                    // 然后调用一下openConnection（）方法
-                    URL url = new URL("http://hbu.coding.me/webservice/conn.php");
+                    //获取到HttpConnection的实例，new出一个URL对象，并传入目标的网址，然后调用一下openConnection（）方法
+                    URL url = new URL("http://www.weather.com.cn/data/sk/101090201.html");
                     connection = (HttpURLConnection) url.openConnection();
-                    //得到了HttpConnection的实例后，设置请求所用的方法
-                    // （GET：从服务器获取数据，POST：提交数据给服务器）
-                    connection.setRequestMethod("GET");
-                    //设置连接超时，读取的毫秒数
-                    connection.setConnectTimeout(8000);
+                    connection.setRequestMethod("GET"); //得到了HttpConnection的实例后，设置请求所用的方法（GET：从服务器获取数据，POST：提交数据给服务器）
+                    connection.setConnectTimeout(8000);//设置连接超时，读取的毫秒数
                     connection.setReadTimeout(8000);
-                    //利用getInputStream（）方法获取服务器的返回的输入流，然后读取
-                    InputStream in = connection.getInputStream();
-                    // 对获取到的输入流进行读取
-                    reader = new BufferedReader(new InputStreamReader(in));
+
+                    InputStream in = connection.getInputStream();//利用getInputStream（）方法获取服务器的返回的输入流，然后读取
+                    reader = new BufferedReader(new InputStreamReader(in));// 对获取到的输入流进行读取
                     StringBuilder response = new StringBuilder();
                     String line;
                     while ((line = reader.readLine()) != null) {
                         response.append(line);
                     }
+                    Log.e("wyg",responseText.getText().toString());
                     showResponse(response.toString());//在模拟器显示返回值
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -147,17 +144,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void parseRequest() {
         try {
-            JSONArray jsonArray = new JSONArray(responseText.getText().toString());
-            String result="";
-            for (int i = 0; i < jsonArray.length(); i++) {
-                JSONObject jsonObject = jsonArray.getJSONObject(i);
-                String id =         jsonObject.getString("id");
-                String name =       jsonObject.getString("psw");
-
-                result += "\n【id】" + id +"\n【name】" + name+"\n" ;
-                result += "\n====================";
-                showResponse(result);
-            }
+            Log.e("wyg",responseText.getText().toString());
+            JSONObject object = new JSONObject(responseText.getText().toString());
+            JSONObject object1 = object.getJSONObject("weatherinfo");
+            String city = object1.getString("city");
+            String temp = object1.getString("temp");
+            String WD = object1.getString("WD");
+            String WS = object1.getString("WS");
+            String parsedJson;
+            parsedJson =  city + "\n" + temp + "\n" + WD +WS+"\n" ;
+            showResponse(parsedJson);
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -13,16 +13,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="parse JSON (json to java)" />
+
     <Button
         android:id="@+id/send_request"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Send Request to server" />
+        android:text="Send Request to Weather server" />
+
     <Button
         android:id="@+id/parse_request"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Parse Requested Json" />
+        android:text="Parse Requested Json to Java" />
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
@@ -30,7 +32,8 @@
         <TextView
             android:id="@+id/response_text"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
 
 
     </ScrollView>
