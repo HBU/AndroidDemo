@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 try {
                     //获取到HttpConnection的实例，new出一个URL对象，并传入目标的网址，
                     // 然后调用一下openConnection（）方法
-                    URL url = new URL("https://e0d980a0-9406-4d96-b8af-8a3375049db0.coding.io/conn.php");
+                    URL url = new URL("http://hbu.coding.me/webservice/conn.php");
                     connection = (HttpURLConnection) url.openConnection();
                     //得到了HttpConnection的实例后，设置请求所用的方法
                     // （GET：从服务器获取数据，POST：提交数据给服务器）
