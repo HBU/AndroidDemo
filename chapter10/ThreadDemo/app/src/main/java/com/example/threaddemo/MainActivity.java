@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         }
         new MyThread().start();
         //////////////////////////////////////////////////////////////
-        ///////第2种线程定义方法：继承Runnable接口方式////////////////
+        ///////第2种线程定义方法：继承Runnable接口方式//////////////// Thread与Runnable区别：https://www.cnblogs.com/yangdy/p/5274455.html
         //////////////////////////////////////////////////////////////
         class MyThread2 implements Runnable{
             @Override

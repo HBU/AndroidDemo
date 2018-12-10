@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         new Thread(new Runnable() {
             @Override
             public void run() {
-                textView.setText("子线程可以更新UI???");//结论是不可以！！！// onCreat（）子线程可以更改UI的具体原因：// Ref:http://www.cnblogs.com/xuyinhuan/p/5930287.html
+                textView.setText("子线程可以更新UI???");//结论是不可以// onCreat（）子线程可以更改UI的具体原因：// Ref:http://www.cnblogs.com/xuyinhuan/p/5930287.html
             }
         }).start();
     }
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view){
         switch (view.getId()){
-            case R.id.button:
+            case R.id.button://执行后，程序会立即崩溃，因为在子线程中更新UI是不允许的。
                 new Thread(new Runnable() {//并没有崩溃，为什么呢？？
                     @Override
                     public void run() {
