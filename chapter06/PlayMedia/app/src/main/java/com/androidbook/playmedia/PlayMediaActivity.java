@@ -29,7 +29,12 @@ public class PlayMediaActivity extends Activity {
 		public void onClick(View v) {
 			switch ( v.getId() ) {
 			case R.id.play:
-				startService( new Intent( "com.androidbook.playmedia.Music" ) );
+//				startService( new Intent( "com.androidbook.playmedia.Music" ) );
+				Intent intent = new Intent();
+				intent.setAction("com.androidbook.playmedia.Music");
+				//不加这句话的话 android 5.0以上会报：Service Intent must be explitict 2018.12.10
+				intent.setPackage("com.androidbook.playmedia");
+				startService(intent);
 				break;
 
 			case R.id.stop:

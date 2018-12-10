@@ -1,7 +1,0 @@
-#Tue Oct 17 00:12:22 CST 2017
-base.0=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e71eb2325f5a43bf9bb0376884c46dac2d503f4c
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a6cee08867e6a4cf81d9f78c91d1cc38c3b8c9c\\classes.dex
-base.1=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a6cee08867e6a4cf81d9f78c91d1cc38c3b8c9c
-file.0=C\:\\MyApp\\book\\s6\\PlayMedia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e71eb2325f5a43bf9bb0376884c46dac2d503f4c\\classes.dex
