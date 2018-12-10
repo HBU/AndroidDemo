@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             public void handleMessage(Message msg) {
                 super.handleMessage(msg);
                 //这个方法是运行在 handler-thread 线程中的 ，可以执行耗时操作
-                Log.d( "myhandler " , "消息： " + msg.what + "  线程： " + Thread.currentThread().getName()  ) ;
+                Log.d( "myhandler" , "消息： " + msg.what + "  线程： " + Thread.currentThread().getName()  ) ;
 
             }
         };
