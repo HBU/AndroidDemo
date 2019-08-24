@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update：2019.8.25。 通知的用法更新很快，8.0中增加了通道的使用。新版本对权限也有了新的设计。感兴趣的同学在掌握基础后，可以根据官方文档进一步学习。"
+        android:background="@color/colorPrimary"/>
+
+    <Button android:id="@+id/btn1"
+        android:onClick="onClick"
+        android:text="最简单的通知"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn2"
+        android:onClick="onClick"
+        android:text="带下载的通知(未实现)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn3"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="BigTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn4"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="InboxStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn5"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="BigPictureStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn6"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="HangUp 横幅通知(未实现)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn7"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="MediaStyle(未实现)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btn8"
+        android:onClick="onClick"
+        android:textAllCaps="false"
+        android:text="自定义View(未实现)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

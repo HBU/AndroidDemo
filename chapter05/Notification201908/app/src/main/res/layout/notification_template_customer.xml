@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/status_bar_latest_event_content"
+    android:layout_width="match_parent"
+    android:layout_height="64dp" android:gravity="center_vertical"
+    android:orientation="horizontal">
+    <ImageView android:id="@+id/icon"
+        android:layout_width="64dp"
+        android:layout_height="50dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/push"/>
+    <LinearLayout android:orientation="vertical"
+        android:paddingRight="8dp"
+        android:paddingEnd="8dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content">
+
+        <TextView android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal"
+            android:layout_weight="1"
+            android:text="Title"/>
+
+        <!--<TextView android:id="@+id/text2"-->
+            <!--android:textAppearance="@style/TextAppearance.StatusBar.EventContent.Line2"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="8dp"-->
+            <!--android:layout_marginStart="8dp"-->
+            <!--android:singleLine="true"-->
+            <!--android:text="contentTitle"-->
+            <!--android:fadingEdge="horizontal"-->
+            <!--android:ellipsize="marquee"-->
+            <!--android:visibility="gone"-->
+            <!--/>-->
+        <TextView android:id="@+id/text"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"
+            android:singleLine="true"
+            android:text="Content"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/media_actions"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|end"
+        android:orientation="horizontal"
+        android:layoutDirection="ltr"
+        >
+        <ImageButton
+            style="?android:attr/borderlessButtonStyle"
+            android:id="@+id/btn1"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_play_arrow_white_18dp"
+            android:gravity="center"
+            />
+        <ImageButton
+            style="?android:attr/borderlessButtonStyle"
+            android:id="@+id/btn2"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_next_white"
+            android:gravity="center"
+            />
+        <ImageButton
+            style="?android:attr/borderlessButtonStyle"
+            android:id="@+id/btn3"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+
+            android:gravity="center"
+            />
+        <!-- media buttons will be added here -->
+    </LinearLayout>
+
+    <ImageView android:id="@+id/end_padder"
+        android:layout_width="6dp"
+
+        android:layout_height="match_parent"
+        />
+</LinearLayout>
