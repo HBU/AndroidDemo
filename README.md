@@ -1,5 +1,6 @@
 # AndroidDemo
-##### 开发环境：Android Studio 3.2.1 / Gradle 4.6
+##### 开发环境：Android Studio 3.5；Gradle 5.4.1
+
 ##### Ref:http://www.ryjiaoyu.com/book/details/6895#
 ##### Ref:https://github.com/guolindev/booksource
 ----------------------------------
@@ -14,7 +15,6 @@
 ----------------------------------
 ### 第4章　Activity、Fragment以及Intent通信机制
 ##### 4.1　[Activity生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter04/ActivityLifeDemo)
-##### 4.2　Fragment生命周期&简单使用
 ##### 4.3　[Intent解析 & Activity的跳转](https://github.com/HBU/AndroidDemo/tree/master/chapter04/Intent)
 ----------------------------------
 ### 第5章　用户界面设计　
@@ -28,8 +28,6 @@
 ##### 5.5　[Toast](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ToastDemo)　　
 ##### 5.6　[Notification](https://github.com/HBU/AndroidDemo/tree/master/chapter05/Notification)
 ##### 5.7　[ListView列表](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ListViewTest)　
-##### 扩展学习：[RecyclerView](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ReckyclerViewTest)　
-##### 5.8 AppWidget
 ----------------------------------
 ### 第６章　[服务](https://github.com/HBU/AndroidDemo/tree/master/chapter06)　
 [生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter06/ServiceTest)　
@@ -56,7 +54,6 @@
 ##### 9.1　[网络访问](https://github.com/HBU/AndroidDemo/tree/master/chapter09/HttpURLConnection)
 ##### 9.2　数据解析　
 - 9.2.1　[JSON格式解析](https://github.com/HBU/AndroidDemo/tree/master/chapter09/Json)　
-- 9.2.2　[SAX方式解析](https://github.com/HBU/AndroidDemo/tree/master/chapter09/SAX)　
 ##### 实验：[在远程服务获取用户数据，完成登录](https://github.com/HBU/AndroidDemo/tree/master/chapter09/Login)
 ##### 9.3　[获取网络状态](https://github.com/HBU/AndroidDemo/tree/master/chapter09/NetworkInfo)
 ##### 9.4　JavaScript与Java交互
