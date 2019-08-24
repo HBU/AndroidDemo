@@ -2,7 +2,7 @@
 ##### 2019.8更新
 ##### Android Studio 3.5；Gradle 5.4.1
 
-
+# --------------------
 
 ### 第5章　用户界面设计　
 ##### 5.1　[常用组件:Button、TextView、EditText、ImageView](https://github.com/HBU/AndroidDemo/tree/master/chapter05/ViewExample)　
