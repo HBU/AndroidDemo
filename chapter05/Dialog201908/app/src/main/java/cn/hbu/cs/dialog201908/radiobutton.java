@@ -1,6 +1,5 @@
 package cn.hbu.cs.dialog201908;
 
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -8,7 +7,6 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
-
 /**
  * Created by David on 2017/9/11.
  */
@@ -17,25 +15,22 @@ public class radiobutton extends AppCompatActivity {
     private TextView myTextView;
     private RadioButton chinaBtn;
     private RadioButton ukBtn;
-    private RadioButton usaBtn;
-    private RadioButton gerBtn;
-    private RadioButton fraBtn;
-    private RadioGroup rg;
+    RadioButton usaBtn;
+    RadioButton gerBtn;
+    RadioButton fraBtn;
+    RadioGroup rg;
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.radiobutton);
         //通过ID找到TextView
-        myTextView = (TextView) findViewById(R.id.myTextView);
+        myTextView = findViewById(R.id.myTextView);
         //通过ID找到RadioButton
-        chinaBtn = (RadioButton) findViewById(R.id.china_Button);
-        ukBtn = (RadioButton) findViewById(R.id.uk_Button);
-        usaBtn = (RadioButton) findViewById(R.id.usa_Button);
-        gerBtn= (RadioButton) findViewById(R.id.ger_Button);
-        fraBtn= (RadioButton) findViewById(R.id.fra_Button);
+        chinaBtn = findViewById(R.id.china_Button);
+        ukBtn =  findViewById(R.id.fra_Button);
         //通过ID找到RadioGroup
-        rg = (RadioGroup) findViewById(R.id.rBtnGroup);
+        rg =  findViewById(R.id.rBtnGroup);
         //只要对RadioGroup进行监听
         rg.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
