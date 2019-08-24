@@ -1,5 +1,2 @@
 # Intent 使用方法
-## 掌握Intent的基本用法，了解Intent的主要功能。
-### Extend reading：[yesbutter](https://github.com/yesbutter/HBU-Android-App/blob/master/Intent_Learning.md)
-
- ![](https://github.com/HBU/AndroidDemo/blob/master/chapter04/Intent/intent.png)
+## 2017.12版在Android Studio3.5中，存在gradle同步卡顿问题。此版本放弃更新。新版内容，请参考2019.8版。
