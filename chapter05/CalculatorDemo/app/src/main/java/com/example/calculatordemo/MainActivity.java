@@ -2,32 +2,37 @@ package com.example.calculatordemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import java.text.DecimalFormat;
 
-// Edit by Hbu_David 2017.6.15
-// Upgrade to Android Studio 3.0.1 ,Gradle 4.1 ,David 2017.11.24
+// Code by David: 2017.6
+
+// Upgrade : Android Studio 3.0 ,Gradle 4.1 ,David 2017.11
+// Upgrade : Android Studio 3.2 ,Gradle 4.6 ,David 2018.07
+// Upgrade : Android Studio 3.5 ,Gradle 5.4 ,David 2019.08
 
 public class MainActivity extends AppCompatActivity {
     //变量定义
-    private EditText editText;          //输入框：用于输入数字
-    private String operator;            //操作符：记录 + - * / 符号
-    private double n1 , n2 ,Result;     //操作数：操作符两端的数字，n1为左操作数，n2为右操作数。
-    private TextView textView;          //文本框：显示计算过程和计算结果
-    private Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0;   //按钮：十个数字
-    private Button btnPlus,btnMinus,btnMultiply,btnDivide;              //按钮：加减乘除
-    private Button btnPoint,btnEqual,btnClear;                          //按钮：小数点，等号，清空
+    private String operator;    //操作符：记录 + - * / 符号
+    double n1 , n2 ,Result;     //操作数：操作符两端的数字，n1为左操作数，n2为右操作数。
+    EditText editText;          //输入框：用于输入数字
+    TextView textView;          //文本框：显示计算过程和计算结果
+    Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0;   //按钮：十个数字
+    Button btnPlus,btnMinus,btnMultiply,btnDivide;              //按钮：加减乘除
+    Button btnPoint,btnEqual,btnClear;                          //按钮：小数点，等号，清空
+    String str; //临时变量
 
-    private View.OnClickListener lisenter = new View.OnClickListener() {//侦听器
+    private View.OnClickListener onClickListener = new View.OnClickListener() {//侦听器
         @Override
         public void onClick(View view) {//点击事件
-            editText = (EditText)findViewById(R.id.editviewdavid);//与XML中定义好的EditText控件绑定
-            textView = (TextView)findViewById(R.id.textviewdavid);//与XML中定义好的TextView控件绑定
+            editText = findViewById(R.id.editViewDavid);//与XML中定义好的EditText控件绑定
+            textView = findViewById(R.id.textViewDavid);//与XML中定义好的TextView控件绑定
             editText.setCursorVisible(false);//隐藏输入框光标
-            String str;
+
             Button button = (Button)view;   //把点击获得的id信息传递给button
             DecimalFormat MyFormat = new DecimalFormat("###.##");//控制Double转为String的格式
 
@@ -36,54 +41,64 @@ public class MainActivity extends AppCompatActivity {
                 {
                     case R.id.button1://如果点击了按钮：“1”
                     {
-                        editText.setText(editText.getText().toString() + 1);//输入框末尾，添加一个“1”
+                        str = editText.getText().toString() + 1;
+                        editText.setText(str);//输入框末尾，添加一个“1”
                         break;
                     }
                     case R.id.button2://2
                     {
-                        editText.setText(editText.getText().toString() + 2);
+                        str = editText.getText().toString() + 2;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button3://3
                     {
-                        editText.setText(editText.getText().toString() + 3);
+                        str = editText.getText().toString() + 3;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button4://4
                     {
-                        editText.setText(editText.getText().toString() + + 4);
+                        str = editText.getText().toString() + 4;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button5://5
                     {
-                        editText.setText(editText.getText().toString() + 5);
+                        str = editText.getText().toString() + 5;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button6://6
                     {
-                        editText.setText(editText.getText().toString() +  6);
+                        str = editText.getText().toString() + 6;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button7://7
                     {
-                        editText.setText(editText.getText().toString() +  7);
+                        str = editText.getText().toString() + 7;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button8://8
                     {
-                        editText.setText(editText.getText().toString() +   8);
+                        str = editText.getText().toString() + 8;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button9://9
                     {
-                        editText.setText(editText.getText().toString() +  9);
+                        str = editText.getText().toString() + 9;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.button0://0
                     {
                         str = editText.getText().toString();
                         //此处可以考虑添加代码，限制用户输入00,000等 2017.6.15
-                        editText.setText(str + 0);
+                        str = str + 0;
+                        editText.setText(str);
                         break;
                     }
                     case R.id.buttonClear://Clear
@@ -96,16 +111,26 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.buttonPoint://.
                     {
                         str = editText.getText().toString();
-                        if(str.indexOf(".") != -1) //判断字符串中是否已包含小数点，如果有，就什么也不做
-                        {}
+                        if(str.contains(".")) //判断字符串中是否已包含小数点，如果有，就什么也不做
+                        {
+                            Log.e("David","empty");
+                        }
                         else //如果没有小数点
                         {
                             if(str.equals("0"))//如果开始为0
-                                editText.setText(("0" + ".").toString());
+                            {
+                                str = "0" + ".";
+                                editText.setText(str);
+                            }
                             else if(str.equals(""))//如果初时显示为空，就什么也不做
-                            {}
+                            {
+                                Log.e("David","empty");
+                            }
                             else
-                                editText.setText(str + ".");
+                            {
+                                str = str + ".";
+                                editText.setText(str);
+                            }
                         }
                         break;
                     }
@@ -115,7 +140,8 @@ public class MainActivity extends AppCompatActivity {
                         n1 = Double.parseDouble(str);
                         operator = "+";
                         editText.setText("");
-                        textView.setText(MyFormat.format(n1) + operator);
+                        str = MyFormat.format(n1) + operator;
+                        textView.setText(str);
                         break;
                     }
                     case R.id.buttonMinus://操作符-
@@ -124,7 +150,8 @@ public class MainActivity extends AppCompatActivity {
                         n1 = Double.parseDouble(str);
                         operator = "-";
                         editText.setText("");
-                        textView.setText(MyFormat.format(n1) + operator);
+                        str = MyFormat.format(n1) + operator;
+                        textView.setText(str);
                         break;
                     }
                     case R.id.buttonMultiply://操作符*
@@ -133,7 +160,8 @@ public class MainActivity extends AppCompatActivity {
                         n1 = Double.parseDouble(str);
                         operator = "*";
                         editText.setText("");
-                        textView.setText(MyFormat.format(n1) + operator);
+                        str = MyFormat.format(n1) + operator;
+                        textView.setText(str);
                         break;
                     }
 
@@ -143,58 +171,70 @@ public class MainActivity extends AppCompatActivity {
                         n1 = Double.parseDouble(str);
                         operator = "/";
                         editText.setText("");
-                        textView.setText(MyFormat.format(n1) + operator);
+                        str = MyFormat.format(n1) + operator;
+                        textView.setText(str);
                         break;
                     }
-                    case R.id.buttonEqual://操作符=
+                    case R.id.buttonEqual://操作符 =
                     {
-                        if(operator == "+")
+                        switch(operator)
                         {
-                            str = editText.getText().toString();
-                            n2 = Double.parseDouble(str);
-                            Result = n1 + n2;
-                            textView.setText(MyFormat.format(n1) + operator + MyFormat.format(n2) + "=" + MyFormat.format(Result) );
-                            editText.setText(MyFormat.format(Result)+"");
-                        }
-                        else if(operator == "-")
-                        {
-                            str = editText.getText().toString();
-                            n2 = Double.parseDouble(str);
-                            Result = n1 - n2;
-                            textView.setText(MyFormat.format(n1) + operator + MyFormat.format(n2) + "="+MyFormat.format(Result));
-                            editText.setText(MyFormat.format(Result)+"");
-                        }
-                        else if(operator == "*")
-                        {
-                            str = editText.getText().toString();
-                            n2 = Double.parseDouble(str);
-                            Result = n1 * n2;
-                            textView.setText(MyFormat.format(n1) + operator + MyFormat.format(n2) + "="+MyFormat.format(Result));
-                            editText.setText(MyFormat.format(Result)+"");
-                        }
-                        else if(operator == "/")
-                        {
-                            str = editText.getText().toString();
-                            n2 = Double.parseDouble(str);
-                            if(n2 == 0)
-                            {
-                                editText.setText("");
-                                textView.setText("除数不能为0");
+                            case "+":
+                                str = editText.getText().toString();
+                                n2 = Double.parseDouble(str);
+                                Result = n1 + n2;
+                                str = MyFormat.format(n1) + operator + MyFormat.format(n2) + "=" + MyFormat.format(Result);
+                                textView.setText(str);
+                                str = MyFormat.format(Result)+"";
+                                editText.setText(str);
                                 break;
-                            }
-                            else
-                            {
-                                Result = n1 / n2;
-                                textView.setText(MyFormat.format(n1) + operator + MyFormat.format(n2) + "="+MyFormat.format(Result));
-                                editText.setText(MyFormat.format(Result)+"");
-                            }
+                            case "-":
+                                str = editText.getText().toString();
+                                n2 = Double.parseDouble(str);
+                                Result = n1 - n2;
+                                str = MyFormat.format(n1) + operator + MyFormat.format(n2) + "=" + MyFormat.format(Result);
+                                textView.setText(str);
+                                str = MyFormat.format(Result)+"";
+                                editText.setText(str);
+                                break;
+                            case "*":
+                                str = editText.getText().toString();
+                                n2 = Double.parseDouble(str);
+                                Result = n1 * n2;
+                                str = MyFormat.format(n1) + operator + MyFormat.format(n2) + "=" + MyFormat.format(Result);
+                                textView.setText(str);
+                                str = MyFormat.format(Result)+"";
+                                editText.setText(str);
+                                break;
+                            case "/":
+                                str = editText.getText().toString();
+                                n2 = Double.parseDouble(str);
+                                if(n2 == 0)
+                                {
+                                    editText.setText("");
+                                    textView.setText("除数不能为0");
+                                    break;
+                                }
+                                else
+                                {
+                                    Result = n1 / n2;
+                                    str = MyFormat.format(n1) + operator + MyFormat.format(n2) + "=" + MyFormat.format(Result);
+                                    textView.setText(str);
+                                    str = MyFormat.format(Result)+"";
+                                    editText.setText(str);
+                                }
+                                break;
+                            default:
+                                break;
                         }
                         break;
                     }
                     default:
                         break;
                 }
-            }catch(Exception e){}
+            }catch(Exception e){
+                Log.e("David","error");
+            }
         }
     };
 
@@ -203,40 +243,40 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //获取按钮的id
-        btn1 = (Button) findViewById(R.id.button1);
-        btn2 = (Button) findViewById(R.id.button2);
-        btn3 = (Button) findViewById(R.id.button3);
-        btn4 = (Button) findViewById(R.id.button4);
-        btn5 = (Button) findViewById(R.id.button5);
-        btn6 = (Button) findViewById(R.id.button6);
-        btn7 = (Button) findViewById(R.id.button7);
-        btn8 = (Button) findViewById(R.id.button8);
-        btn9 = (Button) findViewById(R.id.button9);
-        btn0 = (Button) findViewById(R.id.button0);
-        btnPlus = (Button) findViewById(R.id.buttonPlus);
-        btnMinus = (Button) findViewById(R.id.buttonMinus);
-        btnMultiply = (Button) findViewById(R.id.buttonMultiply);
-        btnDivide = (Button) findViewById(R.id.buttonDivide);
-        btnPoint = (Button) findViewById(R.id.buttonPoint);
-        btnEqual = (Button) findViewById(R.id.buttonEqual);
-        btnClear = (Button) findViewById(R.id.buttonClear);
+        btn1 = findViewById(R.id.button1);
+        btn2 = findViewById(R.id.button2);
+        btn3 = findViewById(R.id.button3);
+        btn4 = findViewById(R.id.button4);
+        btn5 = findViewById(R.id.button5);
+        btn6 = findViewById(R.id.button6);
+        btn7 = findViewById(R.id.button7);
+        btn8 = findViewById(R.id.button8);
+        btn9 = findViewById(R.id.button9);
+        btn0 = findViewById(R.id.button0);
+        btnPlus = findViewById(R.id.buttonPlus);
+        btnMinus = findViewById(R.id.buttonMinus);
+        btnMultiply = findViewById(R.id.buttonMultiply);
+        btnDivide = findViewById(R.id.buttonDivide);
+        btnPoint = findViewById(R.id.buttonPoint);
+        btnEqual = findViewById(R.id.buttonEqual);
+        btnClear = findViewById(R.id.buttonClear);
         //为按钮添加监听器
-        btn1.setOnClickListener(lisenter);
-        btn2.setOnClickListener(lisenter);
-        btn3.setOnClickListener(lisenter);
-        btn4.setOnClickListener(lisenter);
-        btn5.setOnClickListener(lisenter);
-        btn6.setOnClickListener(lisenter);
-        btn7.setOnClickListener(lisenter);
-        btn8.setOnClickListener(lisenter);
-        btn9.setOnClickListener(lisenter);
-        btn0.setOnClickListener(lisenter);
-        btnPlus.setOnClickListener(lisenter);
-        btnMinus.setOnClickListener(lisenter);
-        btnMultiply.setOnClickListener(lisenter);
-        btnDivide.setOnClickListener(lisenter);
-        btnPoint.setOnClickListener(lisenter);
-        btnEqual.setOnClickListener(lisenter);
-        btnClear.setOnClickListener(lisenter);
+        btn1.setOnClickListener(onClickListener);
+        btn2.setOnClickListener(onClickListener);
+        btn3.setOnClickListener(onClickListener);
+        btn4.setOnClickListener(onClickListener);
+        btn5.setOnClickListener(onClickListener);
+        btn6.setOnClickListener(onClickListener);
+        btn7.setOnClickListener(onClickListener);
+        btn8.setOnClickListener(onClickListener);
+        btn9.setOnClickListener(onClickListener);
+        btn0.setOnClickListener(onClickListener);
+        btnPlus.setOnClickListener(onClickListener);
+        btnMinus.setOnClickListener(onClickListener);
+        btnMultiply.setOnClickListener(onClickListener);
+        btnDivide.setOnClickListener(onClickListener);
+        btnPoint.setOnClickListener(onClickListener);
+        btnEqual.setOnClickListener(onClickListener);
+        btnClear.setOnClickListener(onClickListener);
     }
 }

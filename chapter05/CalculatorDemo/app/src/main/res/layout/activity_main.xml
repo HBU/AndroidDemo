@@ -4,17 +4,17 @@
     android:stretchColumns="*"
     android:layout_height="match_parent" >
     <TextView
-        android:id="@+id/textviewdavid"
+        android:id="@+id/textViewDavid"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
-        android:gravity="right"
+        android:gravity="end"
         android:textSize="30sp"
         android:text="TEXT"/>
     <EditText
-        android:id="@+id/editviewdavid"
+        android:id="@+id/editViewDavid"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
-        android:gravity="right"
+        android:gravity="end"
         android:textSize="30sp"
         android:hint="Edit"
         android:textCursorDrawable="@null"
