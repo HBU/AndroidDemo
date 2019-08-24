@@ -12,28 +12,16 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-    private Button ButtonCall;
-    private Button ButtonMessage;
-    private Button ButtonBrowser;
-    private Button ButtonPhoto;
-    private Button ButtonSetting;
-    private Button ButtonDeskTop;
-    private Button ButtonOtherActivity;
-    private Button ButtonOtherActivity1;
-    private Button ButtonOtherActivityParameter;
-    private Button ButtonOtherActivityReturn;
     private TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        //ref:http://www.jianshu.com/p/e65cb8d4e857
         setContentView(R.layout.activity_main);
-
         textView = findViewById(R.id.iReturn);
 /////////////////////////////////////////////////////////////////////////
-        ButtonCall= findViewById(R.id.iCall);
+        Button ButtonCall= findViewById(R.id.iCall);
         ButtonCall.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -43,7 +31,7 @@ public class MainActivity extends Activity {
             }
         });
 /////////////////////////////////////////////////////////////////////////
-        ButtonMessage=findViewById(R.id.iMessage);
+        Button ButtonMessage=findViewById(R.id.iMessage);
         ButtonMessage.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -54,7 +42,7 @@ public class MainActivity extends Activity {
             }
         });
 /////////////////////////////////////////////////////////////////////////
-        ButtonBrowser=findViewById(R.id.iBrowser);
+        Button ButtonBrowser=findViewById(R.id.iBrowser);
         ButtonBrowser.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -64,7 +52,7 @@ public class MainActivity extends Activity {
             }
         });
 /////////////////////////////////////////////////////////////////////////
-        ButtonPhoto=findViewById(R.id.iPhoto);
+        Button ButtonPhoto=findViewById(R.id.iPhoto);
         ButtonPhoto.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -73,7 +61,7 @@ public class MainActivity extends Activity {
             }
         });
 /////////////////////////////////////////////////////////////////////////
-        ButtonSetting=findViewById(R.id.iSetting);
+        Button ButtonSetting=findViewById(R.id.iSetting);
         ButtonSetting.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -83,7 +71,7 @@ public class MainActivity extends Activity {
             }
         });
         /////////////////////////////////////////////////////////////////////////
-        ButtonDeskTop=findViewById(R.id.iDesktop);
+        Button ButtonDeskTop=findViewById(R.id.iDesktop);
         ButtonDeskTop.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -94,7 +82,7 @@ public class MainActivity extends Activity {
             }
         });
         /////////////////////////////////////////////////////////////////////////
-        ButtonOtherActivity=findViewById(R.id.iOtherActivity);
+        Button ButtonOtherActivity=findViewById(R.id.iOtherActivity);
         ButtonOtherActivity.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -104,7 +92,7 @@ public class MainActivity extends Activity {
             }
         });
         /////////////////////////////////////////////////////////////////////////
-        ButtonOtherActivity1=findViewById(R.id.iOtherActivity1);
+        Button ButtonOtherActivity1=findViewById(R.id.iOtherActivity1);
         ButtonOtherActivity1.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -115,7 +103,7 @@ public class MainActivity extends Activity {
             }
         });
         /////////////////////////////////////////////////////////////////////////
-        ButtonOtherActivityParameter=findViewById(R.id.iOtherActivityParameter);
+        Button ButtonOtherActivityParameter=findViewById(R.id.iOtherActivityParameter);
         ButtonOtherActivityParameter.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -135,7 +123,7 @@ public class MainActivity extends Activity {
             }
         });
         /////////////////////////////////////////////////////////////////////////
-        ButtonOtherActivityReturn=findViewById(R.id.iOtherActivityReturn);
+        Button ButtonOtherActivityReturn=findViewById(R.id.iOtherActivityReturn);
         ButtonOtherActivityReturn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
