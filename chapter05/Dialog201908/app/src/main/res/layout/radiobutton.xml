@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/myTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择国家："
+        android:textSize="30dp"
+        />
+    <RadioGroup android:id="@+id/rBtnGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RadioButton
+            android:id="@+id/china_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="中国"
+            />
+        <RadioButton
+            android:id="@+id/uk_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="英国"
+            />
+        <RadioButton
+            android:id="@+id/usa_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="美国"
+            />
+        <RadioButton
+            android:id="@+id/ger_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="德国"
+            />
+        <RadioButton
+            android:id="@+id/fra_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="法国"
+            />
+        <RadioButton
+            android:id="@+id/fra1_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="法国1"
+            />
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CheckBox" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CheckBox" />
+
+
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CheckBox" />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:onClick="onOK"/>
+</LinearLayout>

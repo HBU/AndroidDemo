@@ -1,19 +1,4 @@
-#Sun Sep 09 17:04:53 CST 2018
-path.1=classes.dex
+#Sat Aug 24 16:01:33 CST 2019
+base.0=D\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
-base.4=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.3=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.2=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.1=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.0=E\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-path.5=classes.dex
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex

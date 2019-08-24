@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",

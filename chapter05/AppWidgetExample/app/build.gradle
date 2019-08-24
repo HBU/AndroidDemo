@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion '27.0.3'
+    compileSdkVersion 26
 
     defaultConfig {
         applicationId "com.androidbook.appwidget"
-        minSdkVersion 8
-        targetSdkVersion 8
+        minSdkVersion 15
+        targetSdkVersion 26
     }
 
     buildTypes {

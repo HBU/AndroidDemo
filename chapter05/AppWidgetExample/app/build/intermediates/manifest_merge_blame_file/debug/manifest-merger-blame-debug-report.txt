@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androidbook.appwidget"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:8:5-20:19
+12        android:debuggable="true"
+13        android:icon="@drawable/icon"
+13-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:8:18-47
+14        android:label="@string/app_name"
+14-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:8:48-80
+15        android:testOnly="true" >
+16        <activity android:name="com.androidbook.appwidget.MainActivity" />
+16-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:9:6-48
+16-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:9:16-46
+17
+18        <receiver android:name="com.androidbook.appwidget.AppWidgetExample" >
+18-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:10:10-18:21
+18-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:10:20-52
+19            <intent-filter>
+19-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:11:14-15:30
+20                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+20-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:12:18-84
+20-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:12:26-82
+21                <action android:name="com.androidbook.appwidget.next" />
+21-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:13:18-74
+21-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:13:27-72
+22                <action android:name="com.androidbook.appwidget.preview" />
+22-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:14:19-78
+22-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:14:28-76
+23            </intent-filter>
+24
+25            <meta-data
+25-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:16:14-17:56
+26                android:name="android.appwidget.provider"
+26-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:16:25-66
+27                android:resource="@xml/widget_info" />
+27-->D:\GitHub\AndroidDemo\chapter05\AppWidgetExample\app\src\main\AndroidManifest.xml:17:18-53
+28        </receiver>
+29    </application>
+30
+31</manifest>
