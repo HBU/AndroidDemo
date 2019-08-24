@@ -1,4 +1,4 @@
-### 同名程序，请选用新版本。（旧版本不支持新版Android Studio）
+### 同名程序，请选用新版本。（旧版本程序 不支持 新版Android Studio）
 ##### 2019.8更新
 ##### Android Studio 3.5；Gradle 5.4.1
 
