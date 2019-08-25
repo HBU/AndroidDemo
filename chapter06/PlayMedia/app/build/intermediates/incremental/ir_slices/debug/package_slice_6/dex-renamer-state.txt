@@ -1,4 +1,0 @@
-#Mon Dec 10 16:57:30 CST 2018
-base.0=D\:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
-path.0=classes.dex
-renamed.0=classes.dex

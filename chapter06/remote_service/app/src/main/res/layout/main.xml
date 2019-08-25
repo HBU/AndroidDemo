@@ -4,10 +4,14 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
+
 	<TextView
-		android:layout_width="fill_parent"
+		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:text="远程服务类型播放器"
+		android:textSize="30dp"
+		android:textStyle="bold|italic"
+		android:gravity="center"
 		/>
     
     <SeekBar 

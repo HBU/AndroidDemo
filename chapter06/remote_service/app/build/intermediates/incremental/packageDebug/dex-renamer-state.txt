@@ -1,7 +1,0 @@
-#Tue Oct 17 00:26:53 CST 2017
-base.0=C\:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6657d0ee62c984517a6ea42b5d47fc139a076202
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_be925f1482b65f2642a5ecff52880998cddae3ea\\classes.dex
-base.1=C\:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_be925f1482b65f2642a5ecff52880998cddae3ea
-file.0=C\:\\MyApp\\book\\s6\\remote_service\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6657d0ee62c984517a6ea42b5d47fc139a076202\\classes.dex

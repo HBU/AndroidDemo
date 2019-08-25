@@ -1,7 +1,0 @@
-#Fri Jan 19 16:06:36 CST 2018
-base.0=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8af7032418e494a0b2d9662f85bd9f535ba8e0db
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97904fc8a184b7446122601c032468d23ac1d036\\classes.dex
-base.1=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97904fc8a184b7446122601c032468d23ac1d036
-file.0=C\:\\GitHub\\AndroidDemo\\chapter07\\broadcast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8af7032418e494a0b2d9662f85bd9f535ba8e0db\\classes.dex

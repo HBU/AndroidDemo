@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="BroadcastReceiver" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87b4388b-ce1c-4264-9bc7-7834fab3d484" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/androidTest/java/cn/hbu/cs/servicebind/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/java/cn/hbu/cs/servicebind/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/java/cn/hbu/cs/servicebind/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/app/src/test/java/cn/hbu/cs/servicebind/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceBind201908/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/androidTest/java/cn/hbu/cs/servicetest/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/java/cn/hbu/cs/servicetest/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/java/cn/hbu/cs/servicetest/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/app/src/test/java/cn/hbu/cs/servicetest/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter06/ServiceTest201908/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../broadcast201908/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../broadcast201908/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../broadcast201908/app/src/main/java/cn/hbu/cs/broadcast/MyReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/PlayMedia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/PlayMedia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/androidbook/playmedia/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/generated/source/buildConfig/debug/com/androidbook/playmedia/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/generated/source/buildConfig/debug/com/androidbook/playmedia/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/PlayMediaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/PlayMediaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental-verifier/debug/com/androidbook/playmedia/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/n0CZTCO6ksw5aByrrcLywOI__F4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant-run-apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant-run-apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/main_resources/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/PlayMediaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/PlayMediaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/playmedia/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/manifest-checker/debug/manifest.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/manifest-checker/debug/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/res/merged/debug/layout_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/resources/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/resources/instant-run/debug/resources-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_1.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_4.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_5.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_6.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_7.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_8.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split-apk/debug/slices/slice_9.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/split_list/debug/splitsDiscoveryTaskDebug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/Music.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/PlayMediaActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/PlayMediaActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/6/com/androidbook/playmedia/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/17/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/21/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/extractJars/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/PlayMediaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/PlayMediaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/playmedia/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRun/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRunDependenciesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/instantRunSlicesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/apk/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/apk/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/app/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/PlayMedia/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/PlayMedia/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/androidTest/java/com/example/servicebind/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/java/com/example/servicebind/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/java/com/example/servicebind/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/app/src/test/java/com/example/servicebind/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceBind/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/androidTest/java/com/example/servicetest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/java/com/example/servicetest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/java/com/example/servicetest/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/app/src/test/java/com/example/servicetest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/ServiceTest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/mockable-android-21.v3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/androidbook/remoteservice/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/aidl/debug/com/androidbook/remoteservice/IServicePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/buildConfig/androidTest/debug/com/androidbook/remoteservice/test/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/buildConfig/debug/com/androidbook/remoteservice/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/buildConfig/debug/com/androidbook/remoteservice/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/r/androidTest/debug/com/androidbook/remoteservice/test/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/generated/source/r/debug/com/androidbook/remoteservice/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/androidTest/debug/com/androidbook/remoteservice/test/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/classes/debug/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-safeguard/debug/tag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental-verifier/debug/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/RlXlWoT8nZmlQX92U8d2pEe0dwQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageDebug/zip-cache/1dnL0H8A5S6h_u_8f9dPZZGlPn0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/1dnL0H8A5S6h_u_8f9dPZZGlPn0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-main-apk-res/debug/main_resources/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-main-apk-res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/manifest.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/main_resources/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javaPrecompile/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifest-checker/debug/manifest.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifest-checker/debug/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifest/androidTest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifests/density/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifests/full/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/manifests/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/androidTest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_green.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_green.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_grey.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_grey.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb_green.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb_green.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/layout_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/raw_chengdu.mp3.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/raw_chengdu.mp3.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/raw_today.mp3.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/raw_today.mp3.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/resources-debug-androidTest.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/resources/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/resources/instant-run/debug/resources-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/restart-dex/debug/build-info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_1.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_4.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_5.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_6.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_7.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_8.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split-apk/debug/slices/slice_9.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/split_list/debug/splitsDiscoveryTaskDebug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/splits-support/androidTest/debug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/splits-support/debug/apk-list/apk-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/splits-support/debug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/splits-support/debug/split-list/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6657d0ee62c984517a6ea42b5d47fc139a076202/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be925f1482b65f2642a5ecff52880998cddae3ea/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/IServicePlayer$Stub.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/IServicePlayer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/MusicService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/MusicService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/Remote_serviceActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/Remote_serviceActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/Remote_serviceActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/Remote_serviceActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/4/com/androidbook/remoteservice/Remote_serviceActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/17/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/21/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/extractJars/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRun/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunDependenciesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/android/tools/ir/dummy/slice_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/android/tools/ir/dummy/slice_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/2/com/android/tools/ir/dummy/slice_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/android/tools/ir/dummy/slice_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/4/com/android/tools/ir/dummy/slice_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/android/tools/ir/dummy/slice_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/android/tools/ir/dummy/slice_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R$raw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/7/com/android/tools/ir/dummy/slice_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/android/tools/ir/dummy/slice_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/android/tools/ir/dummy/slice_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/instantRunSlicesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/outputs/apk/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/app/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/app/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter06/remote_service/remote_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter06/remote_service/remote_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BroadcastCustom/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BroadcastCustom/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/androidbook/broadcast/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/broadcast/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/broadcast/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/androidbook/broadcast/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1541982868428/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/BroadcastActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/BroadcastActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/BroadcastReceiverActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidbook/broadcast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/BroadcastActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/BroadcastActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/BroadcastReceiverActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/androidbook/broadcast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/fk1sfRJSAfGkJDqcelq4rVRlRsE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/7Xvx_hgP_8CJldz5T2dufQIhDHs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/7Xvx_hgP_8CJldz5T2dufQIhDHs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-main-apk-res/debug/main_resources/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-main-apk-res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/main_resources/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_main_apk_resources/debug/instantRunMainApkResourcesDebug/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_0/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_1/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_2/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_3/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_4/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_5/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_6/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_7/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_8/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/debug/instantRunSplitApkResourcesDebug/out/slice_9/resources_ap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javaPrecompile/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/BroadcastActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/BroadcastActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/BroadcastReceiverActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/androidbook/broadcast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/density/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/resources/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/resources/instant-run/debug/resources-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split_list/debug/splitsDiscoveryTaskDebug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/splits-support/debug/apk-list/apk-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/splits-support/debug/split-list/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97904fc8a184b7446122601c032468d23ac1d036/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8af7032418e494a0b2d9662f85bd9f535ba8e0db/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BroadcastActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BroadcastActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BroadcastReceiverActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2/com/androidbook/broadcast/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/17/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/21/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/extractJars/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/BroadcastActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/BroadcastActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/BroadcastReceiverActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/androidbook/broadcast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/com/android/tools/ir/runtime/AppPatchesLoaderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/com/androidbook/broadcast/BroadcastReceiverActivity$override.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunDependenciesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/android/tools/ir/dummy/slice_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/android/tools/ir/dummy/slice_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/com/android/tools/ir/dummy/slice_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/android/tools/ir/dummy/slice_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/com/android/tools/ir/dummy/slice_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/android/tools/ir/dummy/slice_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/android/tools/ir/dummy/slice_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/com/android/tools/ir/dummy/slice_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/android/tools/ir/dummy/slice_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/BroadcastActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/BroadcastActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/BroadcastReceiverActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/com/androidbook/broadcast/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/android/tools/ir/dummy/slice_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicesApk/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/broadcast.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_27" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" lean-forward="true" selection-end-line="12" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#600#907#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="77" />
+    <option name="width" value="1036" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="broadcast" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="broadcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="broadcast" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broadcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87b4388b-ce1c-4264-9bc7-7834fab3d484" name="Default" comment="" />
+      <created>1541982467315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541982467315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Logcat" order="7" weight="0.32628062" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.14253898" />
+      <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="right" id="Preview" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#600#907#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/broadcast/BroadcastReceiverActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>
