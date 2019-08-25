@@ -26,20 +26,6 @@
                 android:value="cn.hbu.cs.notification.MainActivity" />
         </activity>
 
-        <service
-            android:name=".DownloadService"
-            android:enabled="true"
-            android:exported="true" />
-
-        <activity
-            android:name=".ImageActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
-
-        <service
-            android:name=".MediaService"
-            android:enabled="true"
-            android:exported="false"></service>
     </application>
 
 </manifest>
