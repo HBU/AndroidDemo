@@ -12,9 +12,10 @@ public class MyReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         // TODO: This method is called when the BroadcastReceiver is receiving
         String Intent_Action = intent.getAction();
-        if("cn.hbu.cs.MyReceiver".equals(Intent_Action)){
+        if("com.android.BroadcastReceiverDemo".equals(Intent_Action)){
             Log.e("BroadcastReceiver","onReceive");
             Toast.makeText(context, "收到广播！", Toast.LENGTH_SHORT).show();
         }
+//        throw new UnsupportedOperationException("Not yet implemented");
     }
 }

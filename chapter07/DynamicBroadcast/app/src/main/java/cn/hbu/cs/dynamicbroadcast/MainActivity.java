@@ -22,11 +22,11 @@ public class MainActivity extends AppCompatActivity {
 
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                IntentFilter intentFiltet = new IntentFilter();
+                IntentFilter intentFilter = new IntentFilter();
                 //设置广播的名字（设置Action，可以添加多个要监听的动作）
-                intentFiltet.addAction("myBroadCastAction");
+                intentFilter.addAction("myBroadCastAction");
                 //注册广播,传入两个参数， 实例化的广播接受者对象，intent 动作筛选对象
-                registerReceiver(myBroadcast,intentFiltet);
+                registerReceiver(myBroadcast,intentFilter);
                 //新建intent 对象
                 Intent intent = new Intent();
                 //设置 动作
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 //添加传递的参数
                 intent.putExtra("data", "Hi!I am broadcastData!");
                 sendBroadcast(intent);
-                Log.e("David","Broadcast sended !");
+                Log.e("David","Broadcast sent !");
             }
         });
 

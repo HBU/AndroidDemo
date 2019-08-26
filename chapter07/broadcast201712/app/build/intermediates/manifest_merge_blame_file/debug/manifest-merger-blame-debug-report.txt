@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androidbook.broadcast"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="8"
+8-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:7:5-20:19
+12        android:debuggable="true"
+13        android:icon="@drawable/icon"
+13-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:7:18-47
+14        android:label="@string/app_name" >
+14-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:7:48-80
+15        <activity
+15-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:8:9-14:20
+16            android:name="com.androidbook.broadcast.BroadcastActivity"
+16-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:8:19-52
+17            android:label="@string/app_name" >
+17-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:9:19-51
+18            <intent-filter>
+18-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:10:13-13:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:11:17-69
+19-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:11:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:12:17-77
+21-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:12:27-74
+22            </intent-filter>
+23        </activity>
+24
+25        <receiver android:name="com.androidbook.broadcast.BroadcastReceiverActivity" >
+25-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:15:3-19:14
+25-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:15:13-54
+26            <intent-filter>
+26-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:16:4-18:20
+27                <action android:name="com.android.BroadcastReceiverDemo" />
+27-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:17:5-63
+27-->D:\GitHub\AndroidDemo\chapter07\broadcast2017\app\src\main\AndroidManifest.xml:17:13-61
+28            </intent-filter>
+29        </receiver>
+30    </application>
+31
+32</manifest>
