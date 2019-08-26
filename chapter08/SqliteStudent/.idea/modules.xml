@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SqliteStudent.iml" filepath="$PROJECT_DIR$/SqliteStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/SqliteStudent-app.iml" filepath="$PROJECT_DIR$/app/SqliteStudent-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug-db/SqliteStudent-debug-db.iml" filepath="$PROJECT_DIR$/debug-db/SqliteStudent-debug-db.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08-SqliteStudent.iml" filepath="$PROJECT_DIR$/chapter08-SqliteStudent.iml" />
       <module fileurl="file://$PROJECT_DIR$/debug-db/debug-db.iml" filepath="$PROJECT_DIR$/debug-db/debug-db.iml" />
     </modules>
   </component>
