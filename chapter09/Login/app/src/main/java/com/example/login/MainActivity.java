@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onLoginClick(View v){
-        //Toast.makeText(this, "登录功能暂未实现", Toast.LENGTH_SHORT).show();  //Toast.LENGTH_LONG（3.5秒）和Toast.LENGTH_SHORT（2秒）的值
+        Toast.makeText(this, "因网站停止服务，登录功能不能使用。登录源代码可参考。", Toast.LENGTH_LONG).show();  //Toast.LENGTH_LONG（3.5秒）和Toast.LENGTH_SHORT（2秒）的值
         sendRequest();
 
     }
