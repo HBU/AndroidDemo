@@ -253,13 +253,13 @@ public class MainActivity extends AppCompatActivity {
         btn8 = findViewById(R.id.button8);
         btn9 = findViewById(R.id.button9);
         btn0 = findViewById(R.id.button0);
-        btnPlus = findViewById(R.id.buttonPlus);
-        btnMinus = findViewById(R.id.buttonMinus);
-        btnMultiply = findViewById(R.id.buttonMultiply);
-        btnDivide = findViewById(R.id.buttonDivide);
-        btnPoint = findViewById(R.id.buttonPoint);
-        btnEqual = findViewById(R.id.buttonEqual);
-        btnClear = findViewById(R.id.buttonClear);
+        btnPlus =       findViewById(R.id.buttonPlus);
+        btnMinus =      findViewById(R.id.buttonMinus);
+        btnMultiply =   findViewById(R.id.buttonMultiply);
+        btnDivide =     findViewById(R.id.buttonDivide);
+        btnPoint =      findViewById(R.id.buttonPoint);
+        btnEqual =      findViewById(R.id.buttonEqual);
+        btnClear =      findViewById(R.id.buttonClear);
         //为按钮添加监听器
         btn1.setOnClickListener(onClickListener);
         btn2.setOnClickListener(onClickListener);
