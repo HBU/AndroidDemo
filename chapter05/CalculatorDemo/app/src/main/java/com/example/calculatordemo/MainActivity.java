@@ -1,12 +1,12 @@
 package com.example.calculatordemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import androidx.appcompat.app.AppCompatActivity;
 import java.text.DecimalFormat;
 
 // Code by David: 2017.6
@@ -14,6 +14,7 @@ import java.text.DecimalFormat;
 // Upgrade : Android Studio 3.0 ,Gradle 4.1 ,David 2017.11
 // Upgrade : Android Studio 3.2 ,Gradle 4.6 ,David 2018.07
 // Upgrade : Android Studio 3.5 ,Gradle 5.4 ,David 2019.08
+// Upgrade : Android Studio 3.5 ,Gradle 5.4 ,David 2019.09 upgrade to AndroidX
 
 public class MainActivity extends AppCompatActivity {
     //变量定义
