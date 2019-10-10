@@ -12,7 +12,7 @@ import android.view.View;
 public class Activity3 extends Activity {
 
     /** Called when the activity is first created. */
-    private static final String TAG = "Activity3";
+    private static final String TAG = "DavidActivity3";
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

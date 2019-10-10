@@ -11,15 +11,15 @@ import android.widget.Button;
 public class Activity1 extends Activity {
 
     /** Called when the activity is first created. */
-    private static final String TAG = "Activity1";
+    private static final String TAG = "DavidActivity1";
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main1);
         Log.e(TAG,"onCreate");
-        Button button = (Button)findViewById(R.id.button);
+        Button button = findViewById(R.id.button);
         button.setText("进入Activity2");
-        Button otherButton = (Button)findViewById(R.id.otherbutton);
+        Button otherButton = findViewById(R.id.otherbutton);
         otherButton.setText("进入Activity3,以对话框形式");
         button.setOnClickListener(new OnClickListener() {
 

@@ -17,7 +17,7 @@ import android.widget.Button;
 public class Activity2 extends Activity {
 
     /** Called when the activity is first created. */
-    private static final String TAG = "Activity2";
+    private static final String TAG = "DavidActivity2";
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
