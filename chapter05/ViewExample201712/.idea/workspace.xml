@@ -5,109 +5,171 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee6c380-af49-46d8-bd57-06bff452be25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/RecyclerView.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/androidTest/java/com/example/administrator/reckyclerviewtest/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/java/com/example/administrator/reckyclerviewtest/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/java/com/example/administrator/reckyclerviewtest/FruitAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/java/com/example/administrator/reckyclerviewtest/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/apple_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/banana_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/cherry_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/grape_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/mango_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/orange_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/pear_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/pineapple_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/strawberry_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/drawable-hdpi/watermelon_pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/layout/fruit_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/app/src/test/java/com/example/administrator/reckyclerviewtest/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReckyclerViewTest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/androidTest/java/com/example/spineer/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/java/com/example/spineer/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/app/src/test/java/com/example/spineer/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer/spinner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TabActivityExample/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TabActivityExample/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TabActivityExample/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TabActivityExample/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TabActivityExample/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TabActivityExample/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TabActivityExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TabActivityExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TabActivityExample/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TabActivityExample/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/drawable/qq0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewExample201712.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/androidTest/java/cn/hbu/cs/viewexample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/java/cn/hbu/cs/viewexample/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/cat_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/ic_contact_list_picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/drawable/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/app/src/test/java/cn/hbu/cs/viewexample/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewExample201910/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter04/ActivityLifeDemo/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/ActivityLifeDemo/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter04/ActivityLifeDemo/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/ActivityLifeDemo/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/app/src/main/java/com/example/login/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/app/src/main/java/com/example/login/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewExample.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/viewexample/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/viewexample/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/androidbook/viewexample/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/androidbook/viewexample/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/C78j9VGeYIIzIjeHgXIlx2HQge8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_cat.jpg.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_cat.jpg.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_cat_normal.jpg.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_cat_normal.jpg.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_dog.jpg.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_dog.jpg.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_contact_list_picture.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_contact_list_picture.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main_test.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main_test.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/com/android/tools/ir/dummy/slice_0.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/11/com/android/tools/ir/dummy/slice_1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/12/com/android/tools/ir/dummy/slice_2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/com/android/tools/ir/dummy/slice_3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/14/com/android/tools/ir/dummy/slice_4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/15/com/android/tools/ir/dummy/slice_5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/android/tools/ir/dummy/slice_6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/ViewExampleActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/ViewExampleActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16/com/androidbook/viewexample/ViewExampleActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/17/com/android/tools/ir/dummy/slice_7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/android/tools/ir/dummy/slice_8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/android/tools/ir/dummy/slice_9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,8 +178,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_27" />
   <component name="ExternalProjectsData">
@@ -137,8 +198,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="528">
+              <caret line="16" column="37" selection-end-line="34" />
+              <folding>
+                <element signature="e#454#469#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
@@ -147,8 +211,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/viewexample/ViewExampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="1782">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="e#1665#1666#0" expanded="true" />
                 <element signature="e#1707#1708#0" expanded="true" />
@@ -167,14 +231,15 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/androidbook/viewexample/ViewExampleActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="469" />
-    <option name="y" value="150" />
+    <option name="x" value="2" />
+    <option name="y" value="77" />
     <option name="width" value="1036" />
-    <option name="height" value="780" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -183,42 +248,43 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -226,27 +292,35 @@
               <item name="viewexample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ViewExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ViewExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ViewExample201712" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ViewExample201712" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -255,7 +329,9 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_27" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,7 +372,7 @@
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -389,12 +465,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Resources Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19349681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -402,22 +486,21 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Captures" order="6" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32908458" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.30289534" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32821497" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.4936269" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32821497" />
+      <window_info anchor="bottom" id="Logcat" order="10" weight="0.32821497" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32821497" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32821497" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,6 +510,8 @@
       <window_info anchor="right" id="Gradle" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -436,16 +521,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="528">
+          <caret line="16" column="37" selection-end-line="34" />
+          <folding>
+            <element signature="e#454#469#0" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidbook/viewexample/ViewExampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="1782">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="e#1665#1666#0" expanded="true" />
             <element signature="e#1707#1708#0" expanded="true" />

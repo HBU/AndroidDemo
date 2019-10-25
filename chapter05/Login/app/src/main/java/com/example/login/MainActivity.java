@@ -20,6 +20,6 @@ public class MainActivity extends Activity {
     }
 
     public void onRegClick(View v){
-        Toast.makeText(this, "注册功能暂未实现", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "注册功能暂未实现", Toast.LENGTH_LONG).show();
     }
 }

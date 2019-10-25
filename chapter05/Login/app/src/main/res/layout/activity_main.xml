@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView1"
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:text= "app1_name"
+    android:textColor="#000"
+    />
+    <TextView
+        android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center_vertical"
-        android:text="网络空间安全与计算机学院911"
-        android:textColor="#000"
-         />
+        android:text="@string/app1_name"
+        android:textColor="@color/colorGreen">
+        </TextView>
 
     <EditText
         android:id="@+id/editText1"
@@ -40,8 +48,20 @@
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="onLoginClick"
         android:text="登录" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/dog" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+
 </LinearLayout>
