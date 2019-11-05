@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void onDialogClick1(View v){
         new AlertDialog.Builder(MainActivity.this)
-                .setIcon(android.R.drawable.ic_dialog_alert)
+                .setIcon(android.R.drawable.alert_dark_frame)
                 .setTitle("注意")
                 .setMessage("确定要退出么?")
                 .setPositiveButton("确定", new DialogInterface.OnClickListener() {
@@ -147,9 +147,9 @@ public class MainActivity extends AppCompatActivity {
         Dialog dialog = new Dialog(this);
         dialog.setTitle("拖动对话框");
         dialog.setContentView(R.layout.seek);
-        SeekBar sbar = (SeekBar) dialog.findViewById(R.id.seekBar1);
+        SeekBar sbar =  dialog.findViewById(R.id.seekBar1);
         sbar.setMax(100);
-        final TextView tview = (TextView) dialog.findViewById(R.id.tv_result);
+        final TextView tview =  dialog.findViewById(R.id.tv_result);
         tview.setText("当前进度为："+sbar.getProgress());
         sbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
