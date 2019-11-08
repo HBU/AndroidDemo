@@ -73,9 +73,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
         if (v == myMenu) {
-            menu.add(0, 1, 0, "我是菜单1");
-            menu.add(0, 2, 0, "我是菜单2");
-            menu.add(0, 3, 0, "我是菜单3");
+            menu.add(0, 1, 0, "私信");
+            menu.add(0, 2, 0, "查看");
+            menu.add(0, 3, 0, "删除");
 
         }
 

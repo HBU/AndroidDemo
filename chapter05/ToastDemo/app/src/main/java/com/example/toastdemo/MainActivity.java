@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void btnToast1(View v){
-        Toast.makeText(getApplicationContext(),"Toast默认样式",Toast.LENGTH_LONG).show();//Toast.LENGTH_LONG（3.5秒）
+        Toast.makeText(getApplicationContext(),"ToastLong",Toast.LENGTH_LONG).show();//Toast.LENGTH_LONG（3.5秒）
     }
     public void btnToast2(View v){
         Toast.makeText(this,"Toast默认样式",Toast.LENGTH_SHORT).show();        //Toast.LENGTH_SHORT（2秒）的值
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = new Toast(this);// 创建Toast
         toast.setDuration(Toast.LENGTH_SHORT);// 设置Toast显示的时长
         ImageView img = new ImageView(this);// 创建ImageView
-        img.setImageResource(R.mipmap.ic_launcher);// 设置图片的资源路径
+        img.setImageResource(R.drawable.qq2);// 设置图片的资源路径
         toast.setView(img);// 设置Toast的视图图片
         toast.setGravity(Gravity.FILL_HORIZONTAL|Gravity.CENTER,0,0); // 设置Toast显示在屏幕的位置
         toast.show();// 显示Toast

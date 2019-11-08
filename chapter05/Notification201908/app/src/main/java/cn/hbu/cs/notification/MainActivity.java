@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         Notification.Builder builder = new Notification.Builder(this);
         builder.setContentTitle("这里是通知的标题~")
                 .setSmallIcon(R.drawable.ic_play)
-                .setContentText("这里是通知的内容！");
+                .setContentText("这里是通知的内容这里是通知的内容这里是通知的内容这里是通知的内容这里是通知的内容！");
         // 兼容  API 26，Android 8.0
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
             // 第三个参数表示通知的重要程度，默认则只在通知栏闪烁一下

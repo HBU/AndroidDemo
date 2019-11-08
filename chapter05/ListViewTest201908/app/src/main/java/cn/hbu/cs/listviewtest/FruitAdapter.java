@@ -30,8 +30,8 @@ public class FruitAdapter extends ArrayAdapter<Fruit> {
         if (convertView == null) {
             view = LayoutInflater.from(getContext()).inflate(resourceId, parent, false);
             viewHolder = new ViewHolder();
-            viewHolder.fruitImage = (ImageView) view.findViewById (R.id.fruit_image);
-            viewHolder.fruitName = (TextView) view.findViewById (R.id.fruit_name);
+            viewHolder.fruitImage =  view.findViewById (R.id.fruit_image);
+            viewHolder.fruitName =  view.findViewById (R.id.fruit_name);
             view.setTag(viewHolder); // 将ViewHolder存储在View中
         } else {
             view = convertView;
