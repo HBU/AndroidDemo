@@ -9,5 +9,8 @@
 ##### 6.1　[本地服务 PlayMedia](https://github.com/HBU/AndroidDemo/tree/master/chapter06/PlayMedia)　
 ##### 6.2　[远程服务 remote_service](https://github.com/HBU/AndroidDemo/tree/master/chapter06/remote_service)
 
+音乐播放器Demo：MusicPlayer
+
+
 
 ### Ref: http://www.jianshu.com/p/d963c55c3ab9
