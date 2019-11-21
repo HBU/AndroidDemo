@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button BindService = (Button)findViewById(R.id.bind_service_button);
-        Button UnBindService = (Button)findViewById(R.id.unbind_service_button);
+        Button BindService = findViewById(R.id.bind_service_button);
+        Button UnBindService = findViewById(R.id.unbind_service_button);
         BindService.setOnClickListener(this);
         UnBindService.setOnClickListener(this);
     }
