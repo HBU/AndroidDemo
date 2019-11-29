@@ -8,7 +8,8 @@
 - c. 多线程通信
 
 
-##### [广播的生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter07/broadcast)　
-##### [广播小实例1](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastBattery)
-##### [广播小实例2](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastCustom)　
+##### [广播的生命周期](https://github.com/HBU/AndroidDemo/tree/master/chapter07/broadcast201908)　
+##### [动态注册广播](https://github.com/HBU/AndroidDemo/tree/master/chapter07/https://github.com/HBU/AndroidDemo/tree/master/chapter07/DynamicBroadcast)　
+##### [广播小实例1](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastBattery201908)
+##### [广播小实例2](https://github.com/HBU/AndroidDemo/tree/master/chapter07/BroadcastCustom201908)　
 ## Ref：http://www.jianshu.com/p/ca3d87a4cdf3
