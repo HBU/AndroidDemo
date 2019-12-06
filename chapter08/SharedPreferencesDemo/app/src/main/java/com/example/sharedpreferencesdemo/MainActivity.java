@@ -14,7 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private Button saveData ,getSaveData ,clearData;
     private EditText userName,password;
 
-    public <T extends View> T $(int id) {//泛型。 Ref：http://blog.csdn.net/sbsujjbcy/article/details/42527957
+    public <T extends View> T $(int id) {
+        //泛型。 Ref：http://blog.csdn.net/sbsujjbcy/article/details/42527957
         return (T) findViewById(id);
     }
 

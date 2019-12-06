@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        edit = (EditText) findViewById(R.id.edit);
+        edit = findViewById(R.id.edit);
         String inputText = load();//调用读文件函数，并把读出内容赋值给字符串
         if (!TextUtils.isEmpty(inputText)) {//文件不为空时，读文件
             edit.setText(inputText);//显示字符串内容
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         save(inputText);//点击保存按钮，存储文件内容
     }
     public void ButtonLoad(View view){
-        edit = (EditText) findViewById(R.id.edit);
+        edit = findViewById(R.id.edit);
         String inputText = load();//点击读文件按钮，读文件
         if (!TextUtils.isEmpty(inputText)) {
             edit.setText(inputText);
