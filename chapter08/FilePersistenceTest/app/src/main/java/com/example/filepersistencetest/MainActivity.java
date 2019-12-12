@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         FileOutputStream out = null;
         BufferedWriter writer = null;
         try {
-            out = openFileOutput("data", Context.MODE_PRIVATE);//保存文件内容
+            out = openFileOutput("data", Context.MODE_PRIVATE);//保存文件内容；文件名：data
             writer = new BufferedWriter(new OutputStreamWriter(out));
             writer.write(inputText);
         } catch (IOException e) {

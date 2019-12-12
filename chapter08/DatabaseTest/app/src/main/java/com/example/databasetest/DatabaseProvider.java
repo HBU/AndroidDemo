@@ -10,17 +10,11 @@ import android.net.Uri;
 public class DatabaseProvider extends ContentProvider {
 
     public static final int BOOK_DIR = 0;
-
     public static final int BOOK_ITEM = 1;
-
     public static final int CATEGORY_DIR = 2;
-
     public static final int CATEGORY_ITEM = 3;
-
     public static final String AUTHORITY = "com.example.databasetest.provider";
-
     private static UriMatcher uriMatcher;
-
     private MyDatabaseHelper dbHelper;
 
     static {
