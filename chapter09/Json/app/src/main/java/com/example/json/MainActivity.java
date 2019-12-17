@@ -32,11 +32,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        responseText = (TextView) findViewById(R.id.response_text);
-        Button buildJson =(Button)findViewById(R.id.build_json);
-        Button parseJson = (Button)findViewById(R.id.parse_json) ;
-        Button sendRequest = (Button) findViewById(R.id.send_request);
-        Button parseRequest = (Button)findViewById(R.id.parse_request);
+        responseText = findViewById(R.id.response_text);
+        Button buildJson = findViewById(R.id.build_json);
+        Button parseJson = findViewById(R.id.parse_json) ;
+        Button sendRequest =  findViewById(R.id.send_request);
+        Button parseRequest = findViewById(R.id.parse_request);
         sendRequest.setOnClickListener(this);
         buildJson.setOnClickListener(this);
         parseJson.setOnClickListener(this);
@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             String WD = object1.getString("WD");
             String WS = object1.getString("WS");
             String parsedJson;
-            parsedJson =  city + "\n" + temp + "\n" + WD +WS+"\n" ;
+            parsedJson =  "城市：" + city + "\n" + "华氏温度："+temp + "\n" + "风向&风力："+WD +WS+"\n" ;
             showResponse(parsedJson);
         } catch (Exception e) {
             e.printStackTrace();

@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         } finally {
             if (cursor != null) {
-                cursor.close();
+                    cursor.close();
             }
         }
     }
