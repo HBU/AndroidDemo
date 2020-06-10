@@ -10,11 +10,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.text.DecimalFormat;
 
 // Code by David: 2017.6
-
 // Upgrade : Android Studio 3.0 ,Gradle 4.1 ,David 2017.11
 // Upgrade : Android Studio 3.2 ,Gradle 4.6 ,David 2018.07
 // Upgrade : Android Studio 3.5 ,Gradle 5.4 ,David 2019.08
-// Upgrade : Android Studio 3.5 ,Gradle 5.4 ,David 2019.09 upgrade to AndroidX
+// Upgrade : upgrade to AndroidX ,David 2019.09
+// Upgrade : Android Studio 4.0 ,Gradle 6.1 ,David 2020.06
 
 public class MainActivity extends AppCompatActivity {
     //变量定义
