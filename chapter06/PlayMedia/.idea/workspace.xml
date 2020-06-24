@@ -12,55 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a522ed3-f977-45c7-a475-3918f3564107" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../chapter05/Dialog201908/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter04/Intent201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter04/Intent201908/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/app/src/main/java/com/example/calculatordemo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/app/src/main/java/com/example/calculatordemo/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/CalculatorDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/Dialog201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/Dialog201908/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/Dialog201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/Dialog201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter05/Dialog201908/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/Dialog201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayMedia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlayMedia.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/playmedia/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/playmedia/BuildConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/uMj0dU6El_5PSCu0ZovO9wG0YGA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/BuildConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_sound.mp3.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_sound.mp3.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +47,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_27" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-14T04:02:03.948Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_28" />
@@ -216,5 +174,23 @@
       <updated>1545616702426</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="271" key="GridCell.Tab.0.bottom" timestamp="1592107231268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592107231268" />
+    <state width="1860" height="271" key="GridCell.Tab.0.center" timestamp="1592107231267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592107231267" />
+    <state width="1860" height="271" key="GridCell.Tab.0.left" timestamp="1592107231267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592107231267" />
+    <state width="1860" height="271" key="GridCell.Tab.0.right" timestamp="1592107231268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592107231268" />
   </component>
 </project>
