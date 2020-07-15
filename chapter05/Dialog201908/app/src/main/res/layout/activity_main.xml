@@ -12,7 +12,8 @@
         android:textAlignment="center"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
-        android:visibility="visible" />
+        android:visibility="visible"
+        android:gravity="center_horizontal" />
     <TextView
         android:id="@+id/textView123"
         android:layout_width="match_parent"
@@ -20,7 +21,8 @@
         android:textAlignment="center"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
-        android:visibility="visible" />
+        android:visibility="visible"
+        android:gravity="center_horizontal" />
 
     <Button
         android:text="对话框"
