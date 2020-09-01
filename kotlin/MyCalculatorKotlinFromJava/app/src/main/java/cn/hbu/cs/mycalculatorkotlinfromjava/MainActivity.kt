@@ -9,9 +9,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
-    private var n1 = ""
-    private var n2 = ""
-    private var flag = ""//计算方式
+    private var n1 = ""     //第一个数字
+    private var n2 = ""     //第二个数字
+    private var flag = ""   //标识
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

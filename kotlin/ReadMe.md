@@ -4,6 +4,6 @@
 
 3. 学习别人代码MyKotlinCalculator：https://github.com/linwenbing/KotlinCounterDemo
 
-4. 从CalculatorDemo复制到新的kotlin项目 MyCalculatorFormJava ，人工调整代码
+4. 从CalculatorDemo复制kotlin代码到新的kotlin项目 MyCalculatorFormJava ，人工调整代码
 
 5. MyCalculatorFormJava新项目运行
