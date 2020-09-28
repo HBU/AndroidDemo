@@ -1,5 +1,5 @@
 # AndroidDemo
-##### 开发环境：Android Studio 3.5；Gradle 5.4.1
+##### 开发环境：Android Studio 4.0.1；Gradle 6.1.1
 
 ##### Ref:http://www.ryjiaoyu.com/book/details/6895#
 ##### Ref:https://github.com/guolindev/booksource
