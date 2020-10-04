@@ -13,11 +13,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/button"/>
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/otherbutton"/>
+        android:id="@+id/otherButton"/>
     <TextView
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="在Android Studio 的 LogCat 中观察 ：
         onStart，onCreate等函数的变化，加深理解Activity生命周期。"

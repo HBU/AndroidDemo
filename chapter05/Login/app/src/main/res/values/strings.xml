@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">登录123</string>
-    <string name="app1_name">"网络空间安全与计算机学院911"</string>
-    <string name="signin">789关于TextView和EditText的练习</string>
+    <string name="app_name">登录</string>
+    <string name="app1_name">"网络空间安全与计算机学院"</string>
+    <string name="signin">关于TextView和EditText的练习</string>
 </resources>

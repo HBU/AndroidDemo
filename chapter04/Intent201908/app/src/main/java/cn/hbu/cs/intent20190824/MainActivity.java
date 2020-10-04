@@ -87,7 +87,8 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v){
                 //注意一定要把Activity注册到manifest文件
-                Intent intent = new Intent( MainActivity.this,SecondActivity.class);
+                Intent intent = new Intent();
+                intent.setClass( MainActivity.this,SecondActivity.class);
                 startActivity(intent);
             }
         });

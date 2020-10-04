@@ -19,7 +19,7 @@ public class Activity1 extends Activity {
         Log.e(TAG,"onCreate");
         Button button = findViewById(R.id.button);
         button.setText("进入Activity2");
-        Button otherButton = findViewById(R.id.otherbutton);
+        Button otherButton = findViewById(R.id.otherButton);
         otherButton.setText("进入Activity3,以对话框形式");
         button.setOnClickListener(new OnClickListener() {
 
@@ -30,7 +30,6 @@ public class Activity1 extends Activity {
                 startActivity(intent);
             }
         });
-
         otherButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -50,24 +49,10 @@ public class Activity1 extends Activity {
     }
 
     @Override
-    protected void onRestoreInstanceState(Bundle savedInstanceState) {
-        // TODO Auto-generated method stub
-        super.onRestoreInstanceState(savedInstanceState);
-        Log.e(TAG,"onRestoreInstanceState");
-    }
-
-    @Override
     protected void onResume() {
         // TODO Auto-generated method stub
         super.onResume();
         Log.e(TAG,"onResume");
-    }
-
-    @Override
-    protected void onSaveInstanceState(Bundle savedInstanceState) {
-        // TODO Auto-generated method stub
-        super.onSaveInstanceState(savedInstanceState);
-        Log.e(TAG,"onSaveInstanceState");
     }
 
     @Override
@@ -95,6 +80,20 @@ public class Activity1 extends Activity {
         super.onDestroy();
         Log.e(TAG,"onDestroy");
     }
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+        super.onRestoreInstanceState(savedInstanceState);
+        Log.e(TAG,"onRestoreInstanceState");
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+        super.onSaveInstanceState(savedInstanceState);
+        Log.e(TAG,"onSaveInstanceState");
+    }
+
 }
 
 

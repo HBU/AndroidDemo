@@ -17,9 +17,10 @@ public class FifthActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fifth);
-        Button buttonGet = (Button) findViewById( R.id.getPara);
-        Button buttonSend = (Button) findViewById( R.id.sendPara);
-        textView = (TextView)findViewById(R.id.textPara) ;
+        Button buttonGet = findViewById( R.id.getPara);
+        Button buttonSend = findViewById( R.id.sendPara);
+        textView = findViewById(R.id.textPara) ;
+
         buttonGet.setOnClickListener( new View.OnClickListener() {
 
             @Override
@@ -27,7 +28,6 @@ public class FifthActivity extends Activity {
                 Bundle bundle = getIntent().getExtras();
                 String para = bundle.getString("参数1-2");
                 textView.setText(para);
-
             }
         });
         buttonSend.setOnClickListener( new View.OnClickListener() {
@@ -41,7 +41,6 @@ public class FifthActivity extends Activity {
                 intent.setClass(FifthActivity.this,MainActivity.class);
                 setResult(RESULT_OK,intent);
                 finish();
-
             }
         });
     }
