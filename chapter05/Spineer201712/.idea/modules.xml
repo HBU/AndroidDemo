@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spineer201712.iml" filepath="$PROJECT_DIR$/Spineer201712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spineer201712.iml" filepath="$PROJECT_DIR$/Spineer201712.iml" group="Spineer201712" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spineer201712-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spineer201712-app.iml" group="Spineer201712/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
