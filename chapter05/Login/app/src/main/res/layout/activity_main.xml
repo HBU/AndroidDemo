@@ -6,20 +6,20 @@
     android:orientation="vertical">
 
     <TextView
-    android:id="@+id/textView1"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:gravity="center_vertical"
-    android:text= "app1_name"
-    android:textColor="#000"
-    />
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="河北大学"
+        android:textColor="#000"
+        android:textSize="30sp" />
+
     <TextView
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/app1_name"
-        android:textColor="@color/colorGreen">
-        </TextView>
+        android:textColor="@color/colorPrimaryDark"></TextView>
 
     <EditText
         android:id="@+id/editText1"

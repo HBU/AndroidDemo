@@ -45,17 +45,13 @@ public class MainActivity extends AppCompatActivity {
         });
 
         editText1 =  findViewById(R.id.editText1);
+
         editText1.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {   }
 
             @Override
-            public void onTextChanged(CharSequence s, int start, int before, int count) {
-
-            }
-
-            @Override
-            public void beforeTextChanged(CharSequence s, int start, int count,
-                                          int after) {
-            }
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {  }
 
             @Override
             public void afterTextChanged(Editable s) {
