@@ -1,0 +1,6 @@
+com/androidbook/appwidget/AppWidgetExample.java
+ com.androidbook.appwidget.AppWidgetExample
+com/androidbook/appwidget/MainActivity.java
+ com.androidbook.appwidget.MainActivity
+com/androidbook/appwidget/BuildConfig.java
+ com.androidbook.appwidget.BuildConfig
