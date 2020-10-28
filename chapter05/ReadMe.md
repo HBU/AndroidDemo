@@ -1,7 +1,9 @@
 ### 同名程序，请选用新版本。（旧版本程序 不支持 新版Android Studio）
-##### 2019.8更新。2017版本需要再旧版本Android Studio 调试。
+##### 2019.8更新。2017版本需要在旧版本Android Studio 调试。
 ##### Android Studio 3.5；Gradle 5.4.1
 
+##### 2010.10更新
+##### Android Studio 4.1；Gradle 6.5
 --------------------
 
 ### 第5章　用户界面设计　
