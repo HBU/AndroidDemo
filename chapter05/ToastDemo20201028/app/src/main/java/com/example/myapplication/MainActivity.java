@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
         toast.setDuration(Toast.LENGTH_SHORT);// 设置Toast显示的时长
         ImageView img = new ImageView(this);// 创建ImageView
         img.setImageResource(R.drawable.qq2);// 设置图片的资源路径
-        toast.setView(img);// 设置Toast的视图图片
+        toast.setView(img);// 设置Toast的视图图片  ---- 「Deprecated」 表示该功能目前仍可以使用，但可能会在将来的 Android 版本中删除。建议开发人员避免长期使用此功能
+        //在 Android 11 Toast 的行为发生了变更 https://my.oschina.net/u/4588270/blog/4514488
         toast.setGravity(Gravity.FILL_HORIZONTAL|Gravity.CENTER,0,0); // 设置Toast显示在屏幕的位置
         toast.show();// 显示Toast
     }
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void btnToast5(View V){
         Toast toast=Toast.makeText(this, "可以设置时长的Toast", Toast.LENGTH_LONG);
-        showMyToast(toast, 10*1000); //第一个参数：我们创建的Toast对象，第二个参数：我们想要设置显示的毫秒数
+        showMyToast(toast, 100*1000); //第一个参数：我们创建的Toast对象，第二个参数：我们想要设置显示的毫秒数
     }
 
     public void showMyToast(final Toast toast, final int cnt) {
