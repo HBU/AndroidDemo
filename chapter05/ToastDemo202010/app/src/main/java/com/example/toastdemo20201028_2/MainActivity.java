@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.toastdemo20201028_2;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -28,8 +28,9 @@ public class MainActivity extends AppCompatActivity {
         toast.setDuration(Toast.LENGTH_SHORT);// 设置Toast显示的时长
         ImageView img = new ImageView(this);// 创建ImageView
         img.setImageResource(R.drawable.qq2);// 设置图片的资源路径
-        toast.setView(img);// 设置Toast的视图图片  ---- 「Deprecated」 表示该功能目前仍可以使用，但可能会在将来的 Android 版本中删除。建议开发人员避免长期使用此功能
-        //在 Android 11 Toast 的行为发生了变更 https://my.oschina.net/u/4588270/blog/4514488
+        toast.setView(img);// 设置Toast的视图图片  ----
+        // 「Deprecated」 表示该功能目前仍可以使用，但可能会在将来的 Android 版本中删除。建议开发人员避免长期使用此功能。
+        //  2020.10.28 ：在 Android 11 Toast 的行为发生了变更 https://my.oschina.net/u/4588270/blog/4514488
         toast.setGravity(Gravity.FILL_HORIZONTAL|Gravity.CENTER,0,0); // 设置Toast显示在屏幕的位置
         toast.show();// 显示Toast
     }
@@ -37,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = new Toast(this);
         View layout = View.inflate(this,R.layout.toast,null);// 找到toast布局的位置
         toast.setView(layout);// 设置toast文本，把设置好的布局传进来
-        toast.setGravity(Gravity.FILL_HORIZONTAL|Gravity.CENTER,0,0);// 设置土司显示在屏幕的位置
+        toast.setGravity(Gravity.FILL_HORIZONTAL|Gravity.CENTER,0,0);// 设置Toast显示在屏幕的位置
         toast.show();// 显示土司
     }
 
