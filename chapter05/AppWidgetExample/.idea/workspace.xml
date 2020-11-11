@@ -10,88 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c583b17a-bb18-4b7f-af35-0e36ebf054a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/AppWidgetExample.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dialog201908/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Login/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Menu/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notification201908/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spineer201712/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ToastDemo/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter04/Intent201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppWidgetExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AppWidgetExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/out/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/out/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_19.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_5.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/369f3324b2a3b2dde2e6761b389c0cb6a844bb1f06f861eb7851f04aa73883bc_8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/appwidget/AppWidgetExample.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/appwidget/AppWidgetExample.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dialog201908/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dialog201908/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dialog201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dialog201908/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dialog201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dialog201908/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dialog201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Dialog201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dialog201908/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Dialog201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Menu/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Menu/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Menu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Menu/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Menu/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Menu/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Menu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Menu/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Menu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Menu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notification201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Notification201908/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notification201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Notification201908/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notification201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Notification201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notification201908/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Notification201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spineer201712/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spineer201712/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ToastDemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ToastDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +67,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_27" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
