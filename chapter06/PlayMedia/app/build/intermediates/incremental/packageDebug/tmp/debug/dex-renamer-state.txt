@@ -1,4 +1,0 @@
-#Wed Nov 11 08:15:51 CST 2020
-base.0=D\:\\GitHub\\AndroidDemo\\chapter06\\PlayMedia\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7b89132-e281-404d-8c3b-0c6ae338cb94" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../chapter05/Notification202010/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter05/Notification202010/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/modules/app/PlayMedia.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/PlayMedia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/generated/not_namespaced_r_class_sources/debug/r/com/androidbook/playmedia/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/generated/source/buildConfig/debug/com/androidbook/playmedia/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/apk_list/debug/mainApkListPersistenceDebug/apk-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/bundle_manifest/debug/bundle-manifest/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/PlayMediaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/javac/debug/classes/com/androidbook/playmedia/PlayMediaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/metadata_feature_manifest/debug/metadata-feature/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/metadata_feature_manifest/debug/processDebugManifest/metadata-feature/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/bbd5decf99599091cb45e44666351919c4e7d29ea5430a25d95f49756fc9d3ad_8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/playmedia/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/playmedia/Music.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/playmedia/PlayMediaActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/playmedia/PlayMediaActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/raw_despacio.mp3.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/raw_sound.mp3.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/signing_config/debug/out/signing-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/Music.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/PlayMediaActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/PlayMediaActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/playmedia/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/java/com/androidbook/playmedia/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/java/com/androidbook/playmedia/PlayMediaActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/raw/despacio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/raw/sound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-24-11-874.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-24-25-559.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-24-28-985.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-25-18-312.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-30-03-145.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-31-04-105.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-31-20-071.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-16-23-31-28-843.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-00-12-20-661.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-01-22-47-988.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-01-22-49-810.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-01-22-57-136.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-10-09-42-984.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-11-30-40-372.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-11-30-46-075.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-11-33-26-851.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2017-10-17-11-42-24-492.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-13-38-498.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-14-52-697.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-14-52-697.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-15-02-923.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-15-02-923.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-46-53-375.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-01-01-16-46-53-375.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-06-16-16-32-12-956.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/android-profile/profile-2018-06-16-16-32-12-956.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/generated/mockable-android-21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/build/intermediates/gradle_project_sync_data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/import-summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayMedia/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/remote_service.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/com/androidbook/remoteservice/IServicePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/aidl_source_output_dir/debug/out/com/androidbook/remoteservice/IServicePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/debug/r/com/androidbook/remoteservice/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/androidbook/remoteservice/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk_list/debug/mainApkListPersistenceDebug/apk-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/IServicePlayer$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/IServicePlayer$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/IServicePlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/MusicService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/MusicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/Remote_serviceActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/Remote_serviceActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/Remote_serviceActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/Remote_serviceActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/androidbook/remoteservice/Remote_serviceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/metadata_feature_manifest/debug/processDebugManifest/metadata-feature/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/09a419c8b15d561fd61e60d0b3579ebce3c3dd00818f54f89ec89dbaebf6ccbd_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/IServicePlayer$Default.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/IServicePlayer$Stub.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/IServicePlayer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/MusicService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/MusicService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/Remote_serviceActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/Remote_serviceActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/Remote_serviceActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/Remote_serviceActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/androidbook/remoteservice/Remote_serviceActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_green.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_bg_grey.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_thumb_green.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_main.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_chengdu.mp3.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_today.mp3.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config/debug/out/signing-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/IServicePlayer$Stub$Proxy.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/IServicePlayer$Stub.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/IServicePlayer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/MusicService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/MusicService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R$raw.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/Remote_serviceActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/androidbook/remoteservice/Remote_serviceActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/aidl/com/androidbook/remoteservice/IServicePlayer.aidl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androidbook/remoteservice/MusicService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androidbook/remoteservice/Remote_serviceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/seekbar_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/seekbar_bg_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/seekbar_bg_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/seekbar_thumb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/thumb_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/chengdu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/today.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-42-55-728.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-43-02-949.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-43-05-394.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-45-36-193.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-46-22-893.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-46-41-307.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-46-51-330.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-47-01-729.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-47-15-412.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-47-25-473.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-48-20-683.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-49-11-400.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-49-23-758.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-50-11-261.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-50-17-102.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-53-44-838.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-54-10-487.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-55-18-000.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-55-32-325.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-55-42-914.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-16-23-56-17-104.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-12-56-930.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-14-48-194.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-23-51-530.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-25-24-720.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-26-04-856.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-26-21-506.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-26-35-901.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-26-52-852.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-47-10-694.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-54-06-531.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-58-05-342.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-00-58-15-366.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-01-14-33-507.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-01-14-35-178.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-01-15-41-502.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-01-27-13-124.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-11-43-37-024.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-11-43-40-640.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-17-11-43-56-176.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-23-02-16-45-674.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-23-02-16-49-402.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-23-02-26-05-824.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-23-02-50-00-313.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-10-23-02-50-12-424.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-13-37-02-867.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-13-38-52-105.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-13-38-52-105.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-13-39-02-083.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-14-13-39-02-083.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-16-34-03-628.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-16-34-03-628.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/mockable-android-21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import-summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/play2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remote_service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5X_API_27]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k7ZdWyobruSotNbYrr7R346166" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="8KE5T19624024862" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-17T10:58:29.607Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MusicPlayer" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="remote_service.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7b89132-e281-404d-8c3b-0c6ae338cb94" name="Default" comment="" />
+      <created>1541385654141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541385654141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="176" key="#PSD" timestamp="1605054564201">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="317" y="176" key="#PSD/0.0.1600.860@0.0.1600.860" timestamp="1605054564201" />
+    <state x="656" y="103" key="#app" timestamp="1605613330019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="103" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1605613330019" />
+    <state x="696" y="223" key="FileChooserDialogImpl" timestamp="1605613355162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="156" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1605576181250" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605054354957" />
+    <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605613355162" />
+  </component>
+</project>

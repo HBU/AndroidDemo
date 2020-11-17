@@ -1,7 +1,0 @@
-com/androidbook/playmedia/PlayMediaActivity.java
- com.androidbook.playmedia.PlayMediaActivity
- com.androidbook.playmedia.PlayMediaActivity$1
-com/androidbook/playmedia/Music.java
- com.androidbook.playmedia.Music
-com/androidbook/playmedia/BuildConfig.java
- com.androidbook.playmedia.BuildConfig

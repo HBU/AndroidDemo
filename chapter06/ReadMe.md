@@ -4,6 +4,9 @@
 - 特点：长生命周期的、没有用户界面、在后台运行
 
 
+### Android studio 4.1.1 ；gradle 6.5
+
+
 [生命周期 ServiceTest](https://github.com/HBU/AndroidDemo/tree/master/chapter06/ServiceTest)　
 [绑定服务 ServiceBind](https://github.com/HBU/AndroidDemo/blob/master/chapter06/ServiceBind/ReadMe.md)
 ##### 6.1　[本地服务 PlayMedia](https://github.com/HBU/AndroidDemo/tree/master/chapter06/PlayMedia)　

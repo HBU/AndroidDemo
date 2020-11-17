@@ -1,0 +1,4 @@
+#Tue Nov 17 18:58:36 CST 2020
+base.0=D\:\\GitHub\\AndroidDemo\\chapter06\\remote_service\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

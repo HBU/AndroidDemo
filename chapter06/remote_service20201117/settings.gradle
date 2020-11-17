@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "remote_service20201117"
