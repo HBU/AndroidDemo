@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("data","Hello David");
                 //Android8在静态广播的使用上做了一些限制
                 //https://blog.csdn.net/yegshun/article/details/81232775
-                intent.setComponent(new ComponentName("com.example.broadcastcustom","com.example.broadcastcustom.MyBroadcastReceiver"));
+                intent.setComponent(new ComponentName("com.example.broadcastcustom","com.example.broadcastcustom.MyReceiver"));
                 //发送广播（无序广播）
                 sendBroadcast(intent);
                 Log.e("David","Broadcast sent !");
