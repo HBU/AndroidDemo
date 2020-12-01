@@ -4,6 +4,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
+import android.widget.Toast;
 
 
 public class DBHelper  extends SQLiteOpenHelper {
@@ -43,8 +45,15 @@ public class DBHelper  extends SQLiteOpenHelper {
          }
 
     public void onInsert(SQLiteDatabase db, int id, String name, int age) {//向学生表中添加1名学生。
-        db.execSQL("insert into " + Student.TABLE + "("+ Student.KEY_ID+","+Student.KEY_name+","+Student.KEY_age+")" +
-                    " values("+id+","+name+","+age+")");
+        Log.e("TestString","onInsert Begin =================================");
+
+        String testString = "";
+        testString = "insert into " + Student.TABLE + "("+ Student.KEY_ID+","+Student.KEY_name+","+Student.KEY_age+")" + " values("+id+","+name+","+age+")";
+        Log.e("TestString",testString);
+        db.execSQL(testString);
+
+
+        Log.e("TestString","onInsert End =================================");
     }
     public void onDelete(SQLiteDatabase db, int id) {//从学生表删除1名学生。
         db.execSQL("delete from " + Student.TABLE + " where "+ Student.KEY_ID + " = "+ id);

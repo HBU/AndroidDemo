@@ -88,15 +88,21 @@ public class MainActivity extends AppCompatActivity {
                     }
                     case R.id.db_insert:{                        //Insert one line data
                         Toast.makeText(MainActivity.this,"插入一条数据",Toast.LENGTH_SHORT).show();
+                        Log.e("TestString0",editTextID.getText().toString() +editTextName.getText().toString()+editTextAge.getText().toString());
                         database = dbHelper.getWritableDatabase();
+                        Log.e("TestString1",editTextID.getText().toString() +editTextName.getText().toString()+editTextAge.getText().toString());
                         int InsertId,InsertAge;
                         String InsertName;
                         InsertId = Integer.parseInt(editTextID.getText().toString());
                         InsertName = editTextName.getText().toString();
                         InsertAge = Integer.parseInt(editTextAge.getText().toString());
+                        Log.e("TestString2",InsertId + "" + InsertName + InsertAge);
                         // 此处应增加：if 符合条件，才能插入数据。else 提示数据不符合要求。
                         dbHelper.onInsert(database,InsertId, InsertName,InsertAge);
+                        Log.e("TestString3",InsertId + "" + InsertName + InsertAge);
                         database.close();
+                        initDbData();//重新初始化RecyclerView
+                        initView();
                         break;
                     }
                     case R.id.db_delete:{                        //Delete the selected data
