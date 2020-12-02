@@ -49,6 +49,7 @@ public class DBHelper  extends SQLiteOpenHelper {
 
         String testString = "";
         testString = "insert into " + Student.TABLE + "("+ Student.KEY_ID+","+Student.KEY_name+","+Student.KEY_age+")" + " values("+id+",\""+name+"\","+age+")";
+        // Update by 20171101180-陈嘉伟 2020.12.02 增加了转义字符，人名可用任意字符（无转移字符，只能用数字表示人名）
         Log.e("TestString",testString);
         db.execSQL(testString);
 
