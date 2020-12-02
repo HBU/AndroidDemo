@@ -48,7 +48,7 @@ public class DBHelper  extends SQLiteOpenHelper {
         Log.e("TestString","onInsert Begin =================================");
 
         String testString = "";
-        testString = "insert into " + Student.TABLE + "("+ Student.KEY_ID+","+Student.KEY_name+","+Student.KEY_age+")" + " values("+id+","+name+","+age+")";
+        testString = "insert into " + Student.TABLE + "("+ Student.KEY_ID+","+Student.KEY_name+","+Student.KEY_age+")" + " values("+id+",\""+name+"\","+age+")";
         Log.e("TestString",testString);
         db.execSQL(testString);
 
