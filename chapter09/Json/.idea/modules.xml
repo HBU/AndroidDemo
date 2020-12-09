@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Json.iml" filepath="$PROJECT_DIR$/Json.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Json.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Json.app.iml" />
     </modules>
   </component>
 </project>
