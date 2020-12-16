@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Handler_learning.iml" filepath="$PROJECT_DIR$/Handler_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Handler_learning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Handler_learning.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter10.Handler_learning.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter10.Handler_learning.iml" />
     </modules>
   </component>
 </project>
