@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HandlerDemo.iml" filepath="$PROJECT_DIR$/HandlerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HandlerDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HandlerDemo.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter10.HandlerDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter10.HandlerDemo.iml" />
     </modules>
   </component>

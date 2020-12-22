@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AsyncTask_learning.iml" filepath="$PROJECT_DIR$/AsyncTask_learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AsyncTask_learning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AsyncTask_learning.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter10.AsyncTask_learning.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter10.AsyncTask_learning.iml" />
     </modules>
