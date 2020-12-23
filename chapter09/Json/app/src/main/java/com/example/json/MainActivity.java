@@ -1,6 +1,6 @@
 package com.example.json;
+import android.app.Activity;
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -26,7 +26,7 @@ import java.net.URL;
 
 import javax.xml.parsers.SAXParserFactory;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends Activity implements View.OnClickListener{
     public TextView responseText;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
