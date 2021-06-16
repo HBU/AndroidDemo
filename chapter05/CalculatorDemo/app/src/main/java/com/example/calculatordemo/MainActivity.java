@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnPoint,btnEqual,btnClear;                          //按钮：小数点，等号，清空
     String str; //临时变量
 
-    private View.OnClickListener onClickListener = new View.OnClickListener() {//侦听器
+    private final View.OnClickListener onClickListener = new View.OnClickListener() {//侦听器
         @Override
         public void onClick(View view) {//点击事件
             editText = findViewById(R.id.editViewDavid);//与XML中定义好的EditText控件绑定
