@@ -14,6 +14,7 @@ import java.text.DecimalFormat;
 // Upgrade : Android Studio 3.2 ,Gradle 4.6 , David 2018.07
 // Upgrade : Android Studio 3.5 ,Gradle 5.4 , David 2019.08 ; upgrade to AndroidX , David 2019.09
 // Upgrade : Android Studio 4.0 ,Gradle 6.1 , David 2020.09
+// Upgrade : Android Studio 4.2 ,Gradle 6.7 , David 2021.06
 
 public class MainActivity extends AppCompatActivity {
     //变量定义
