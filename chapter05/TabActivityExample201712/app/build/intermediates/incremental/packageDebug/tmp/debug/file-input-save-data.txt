@@ -1,27 +1,7 @@
 #Internal package file, do not edit.
-#Sun Sep 09 17:12:45 CST 2018
-2.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-5.set=DEX
+#Thu Aug 26 16:33:37 CST 2021
+0.base=D\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample201712\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
-2.baseType=DIRECTORY
-3.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-2.set=DEX
-1.path=classes.dex
-4.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-count=6
-5.baseType=DIRECTORY
-2.path=classes.dex
-5.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-4.set=DEX
-3.path=classes.dex
-3.baseType=DIRECTORY
-1.set=DEX
-4.path=classes.dex
-1.baseType=DIRECTORY
-5.path=classes.dex
-0.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+count=1
 0.baseType=DIRECTORY
-3.set=DEX
-1.base=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-4.baseType=DIRECTORY
 0.set=DEX

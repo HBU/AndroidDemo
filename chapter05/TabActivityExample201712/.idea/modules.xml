@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TabActivityExample.iml" filepath="$PROJECT_DIR$/TabActivityExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TabActivityExample201712.iml" filepath="$PROJECT_DIR$/.idea/modules/TabActivityExample201712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TabActivityExample201712.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TabActivityExample201712.app.iml" />
     </modules>
   </component>
 </project>

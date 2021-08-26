@@ -1,19 +1,4 @@
-#Sun Sep 09 17:12:45 CST 2018
-path.1=classes.dex
-path.0=classes.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
+#Thu Aug 26 16:33:37 CST 2021
+base.0=D\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample201712\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
-base.5=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.4=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.3=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.2=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.1=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.0=E\:\\GitHub\\AndroidDemo\\chapter05\\TabActivityExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-path.5=classes.dex
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex
+path.0=classes.dex
