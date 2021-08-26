@@ -8,6 +8,9 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -15,102 +18,116 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d23c40b-857a-4549-ba0c-e15c0a9c022a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/AsyncTaskExample.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommSubThread/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommSubThread/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CustomApplication/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CustomApplication/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ThreadUpdateTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UpdateUIinSubthread/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter09.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/BroadcastBattery201908/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/DynamicBroadcast/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcast201908/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter07/broadcastcustom/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ContactsTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseDemo201908/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/DatabaseTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/DatabaseTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/DatabaseTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/FilePersistenceTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/ProviderTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SharedPreferencesDemo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter08/SqliteStudent201908/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/HttpURLConnection/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Json/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Json/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Json/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Json/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Json/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Json/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Json/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Login/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Login/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Login/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Login/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Login/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/Login/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/Login/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/NetworkInfo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/SAX/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/SAX/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/SAX/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/SAX/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/SAX/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/SAX/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/SAX/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/SAX/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/SAX/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewDemo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter09/WebviewJavascriptDemo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_24_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_24_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_24_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_24_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_24_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_24_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_24_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_24_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_24_0_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AsyncTaskExample.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/AsyncTaskExample.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AsyncTaskExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AsyncTaskExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTaskExample201908/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsyncTaskExample201908/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AsyncTask_learning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsyncTask_learning/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommSubThread/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommSubThread/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomApplication/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomApplication/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomApplication/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomApplication/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomApplication/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomApplication/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomApplication/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Handler_learning/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Handler_learning/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThreadDemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ThreadDemo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThreadDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ThreadDemo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThreadUpdateTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ThreadUpdateTest/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThreadUpdateTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UpdateUIinSubthread/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UpdateUIinSubthread/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UpdateUIinSubthread/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommSubThread/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommSubThread/.idea/runConfigurations.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +138,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5X_API_27]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Administrator\.android\avd\Nexus_5X_API_27.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -149,47 +166,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CommSubThread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AsyncTaskExample201908" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="AsyncTaskExample.app" />
@@ -199,6 +195,7 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -254,6 +251,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -264,6 +268,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -276,11 +281,5 @@
       <updated>1544418900250</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1608081998073">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1608081998073" />
   </component>
 </project>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SAX.iml" filepath="$PROJECT_DIR$/SAX.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SAX.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SAX.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter09.SAX.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter09.SAX.iml" />
     </modules>
