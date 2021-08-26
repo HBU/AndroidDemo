@@ -1,6 +1,5 @@
 package com.example.calculator;
 
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -15,10 +14,8 @@ import java.text.DecimalFormat;
 // Upgrade : Android Studio 3.2 ,Gradle 4.6 , David 2018.07
 // Upgrade : Android Studio 3.5 ,Gradle 5.4 , David 2019.08 ; upgrade to AndroidX , David 2019.09
 // Upgrade : Android Studio 4.0 ,Gradle 6.1 , David 2020.09
-// Upgrade : Android Studio 4.2 ,Gradle 6.7 , David 2021.06
-//          ①XML文件 删除 EditText的android:autofillHints=""
-//          ②final View.OnClickListener 加 final
-//          ③switch case 条件为变量的，改为 if else
+// Upgrade : Android Studio 4.2 ,Gradle 6.7 , David 2021.06 ;
+// ①XML文件 删除 EditText的android:autofillHints=""  ②final View.OnClickListener 加 final   ③switch case 条件为变量的，改为 if else
 // Upgrade : Android Studio Arctic Fox ,Gradle 7.0.2 , David 2021.08
 
 public class MainActivity extends AppCompatActivity {

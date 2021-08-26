@@ -1,4 +1,4 @@
-#Mon Oct 19 11:39:07 CST 2020
+#Thu Aug 26 16:11:28 CST 2021
 base.0=D\:\\GitHub\\AndroidDemo\\chapter05\\AppWidgetExample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
