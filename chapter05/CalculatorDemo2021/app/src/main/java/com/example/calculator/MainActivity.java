@@ -19,6 +19,7 @@ import java.text.DecimalFormat;
 //          ①XML文件 删除 EditText的android:autofillHints=""
 //          ②final View.OnClickListener 加 final
 //          ③switch case 条件为变量的，改为 if else
+// Upgrade : Android Studio Arctic Fox ,Gradle 7.0.2 , David 2021.08
 
 public class MainActivity extends AppCompatActivity {
     //变量定义
