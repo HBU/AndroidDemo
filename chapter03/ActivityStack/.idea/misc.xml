@@ -5,6 +5,14 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/AndroidDemo/chapter03/ActivityStack/app/src/main/res/layout/activity_main1.xml" value="0.2046875" />
+        <entry key="..\:/GitHub/AndroidDemo/chapter03/ActivityStack/app/src/main/res/layout/activity_main2.xml" value="0.30625" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
