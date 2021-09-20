@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:layout_height="fill_parent"
+        android:layout_height="match_parent"
         android:id="@+id/textView1"
         android:background="#f00"
         android:layout_weight="1"
@@ -15,7 +15,7 @@
     </TextView>
 
     <TextView
-        android:layout_height="fill_parent"
+        android:layout_height="match_parent"
         android:id="@+id/textView2"
         android:background="#fff"
         android:layout_weight="1"
@@ -32,12 +32,12 @@
         android:textSize="20sp"
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="fill_parent">
+        android:layout_height="match_parent">
 
     </TextView>
 
     <TextView
-        android:layout_height="fill_parent"
+        android:layout_height="match_parent"
         android:id="@+id/textView4"
         android:background="#fff"
         android:layout_weight="1"
